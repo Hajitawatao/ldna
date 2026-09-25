@@ -1,0 +1,1130 @@
+[
+ {
+  "id": 1,
+  "title": "CHIEF OF MEDICAL PROFESSIONAL STAFF II",
+  "portal_code": null,
+  "salary_grade": 26,
+  "level": 4,
+  "current": true
+ },
+ {
+  "id": 2,
+  "title": "MEDICAL CENTER CHIEF II",
+  "portal_code": null,
+  "salary_grade": 27,
+  "level": 4,
+  "current": true
+ },
+ {
+  "id": 3,
+  "title": "CHIEF ADMINISTRATIVE OFFICER",
+  "portal_code": null,
+  "salary_grade": 24,
+  "level": 4,
+  "current": true
+ },
+ {
+  "id": 4,
+  "title": "SUPERVISING ADMINISTRATIVE OFFICER",
+  "portal_code": null,
+  "salary_grade": 22,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 5,
+  "title": "ADMINISTRATIVE AIDE III",
+  "portal_code": null,
+  "salary_grade": 3,
+  "level": 1,
+  "current": true
+ },
+ {
+  "id": 6,
+  "title": "ADMINISTRATIVE AIDE V",
+  "portal_code": null,
+  "salary_grade": 5,
+  "level": 1,
+  "current": true
+ },
+ {
+  "id": 7,
+  "title": "ADMINISTRATIVE AIDE VI",
+  "portal_code": null,
+  "salary_grade": 6,
+  "level": 1,
+  "current": true
+ },
+ {
+  "id": 8,
+  "title": "ADMINISTRATIVE ASSISTANT I",
+  "portal_code": null,
+  "salary_grade": 7,
+  "level": 1,
+  "current": true
+ },
+ {
+  "id": 9,
+  "title": "ADMINISTRATIVE ASSISTANT II",
+  "portal_code": null,
+  "salary_grade": 8,
+  "level": 1,
+  "current": true
+ },
+ {
+  "id": 10,
+  "title": "ADMINISTRATIVE ASSISTANT III",
+  "portal_code": null,
+  "salary_grade": 9,
+  "level": 1,
+  "current": true
+ },
+ {
+  "id": 11,
+  "title": "ADMINISTRATIVE OFFICER I",
+  "portal_code": null,
+  "salary_grade": 10,
+  "level": 1,
+  "current": true
+ },
+ {
+  "id": 12,
+  "title": "ADMINISTRATIVE OFFICER II",
+  "portal_code": null,
+  "salary_grade": 11,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 13,
+  "title": "ADMINISTRATIVE OFFICER III",
+  "portal_code": null,
+  "salary_grade": 14,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 14,
+  "title": "ADMINISTRATIVE OFFICER IV",
+  "portal_code": null,
+  "salary_grade": 15,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 15,
+  "title": "ADMINISTRATIVE OFFICER V",
+  "portal_code": null,
+  "salary_grade": 18,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 16,
+  "title": "COOK II",
+  "portal_code": null,
+  "salary_grade": 5,
+  "level": 1,
+  "current": true
+ },
+ {
+  "id": 17,
+  "title": "HOSPITAL HOUSEKEEPER",
+  "portal_code": null,
+  "salary_grade": 8,
+  "level": 1,
+  "current": true
+ },
+ {
+  "id": 18,
+  "title": "Laundry Worker",
+  "portal_code": null,
+  "salary_grade": null,
+  "level": 1,
+  "current": false
+ },
+ {
+  "id": 19,
+  "title": "SEAMSTRESS",
+  "portal_code": null,
+  "salary_grade": 2,
+  "level": 1,
+  "current": true
+ },
+ {
+  "id": 20,
+  "title": "WAREHOUSEMAN III",
+  "portal_code": null,
+  "salary_grade": 11,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 21,
+  "title": "CHEMIST II",
+  "portal_code": null,
+  "salary_grade": 15,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 22,
+  "title": "CHEMIST III",
+  "portal_code": null,
+  "salary_grade": 18,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 23,
+  "title": "COMPUTER MAINTENANCE TECHNOLOGIST II",
+  "portal_code": null,
+  "salary_grade": 15,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 24,
+  "title": "COMPUTER MAINTENANCE TECHNOLOGIST III",
+  "portal_code": null,
+  "salary_grade": 17,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 25,
+  "title": "DENTAL AIDE",
+  "portal_code": null,
+  "salary_grade": 4,
+  "level": 1,
+  "current": true
+ },
+ {
+  "id": 26,
+  "title": "DENTIST II",
+  "portal_code": null,
+  "salary_grade": 17,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 27,
+  "title": "DENTIST III",
+  "portal_code": null,
+  "salary_grade": 20,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 28,
+  "title": "DENTIST V",
+  "portal_code": null,
+  "salary_grade": 24,
+  "level": 4,
+  "current": true
+ },
+ {
+  "id": 29,
+  "title": "ENGINEER III",
+  "portal_code": null,
+  "salary_grade": 19,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 30,
+  "title": "ENGINEER IV",
+  "portal_code": null,
+  "salary_grade": 22,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 31,
+  "title": "HEALTH PHYSICIST III",
+  "portal_code": null,
+  "salary_grade": 22,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 32,
+  "title": "ACCOUNTANT III",
+  "portal_code": null,
+  "salary_grade": 19,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 33,
+  "title": "ACCOUNTANT IV",
+  "portal_code": null,
+  "salary_grade": 22,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 34,
+  "title": "FINANCIAL AND MANAGEMENT OFFICER II",
+  "portal_code": null,
+  "salary_grade": 24,
+  "level": 4,
+  "current": true
+ },
+ {
+  "id": 35,
+  "title": "Health Education and Promotion Officer III",
+  "portal_code": null,
+  "salary_grade": null,
+  "level": 3,
+  "current": false
+ },
+ {
+  "id": 36,
+  "title": "ATTORNEY IV",
+  "portal_code": null,
+  "salary_grade": 23,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 37,
+  "title": "MEDICAL EQUIPMENT TECHNICIAN I",
+  "portal_code": null,
+  "salary_grade": 6,
+  "level": 1,
+  "current": true
+ },
+ {
+  "id": 38,
+  "title": "MEDICAL EQUIPMENT TECHNICIAN II",
+  "portal_code": null,
+  "salary_grade": 8,
+  "level": 1,
+  "current": true
+ },
+ {
+  "id": 39,
+  "title": "MEDICAL EQUIPMENT TECHNICIAN III",
+  "portal_code": null,
+  "salary_grade": 11,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 40,
+  "title": "MEDICAL EQUIPMENT TECHNICIAN IV",
+  "portal_code": null,
+  "salary_grade": 13,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 41,
+  "title": "LABORATORY AIDE II",
+  "portal_code": null,
+  "salary_grade": 4,
+  "level": 1,
+  "current": true
+ },
+ {
+  "id": 42,
+  "title": "MEDICAL LABORATORY TECHNICIAN III",
+  "portal_code": null,
+  "salary_grade": 10,
+  "level": 1,
+  "current": true
+ },
+ {
+  "id": 43,
+  "title": "MEDICAL OFFICER III",
+  "portal_code": null,
+  "salary_grade": 21,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 44,
+  "title": "MEDICAL OFFICER IV",
+  "portal_code": null,
+  "salary_grade": 23,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 45,
+  "title": "MEDICAL SPECIALIST II",
+  "portal_code": null,
+  "salary_grade": 23,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 46,
+  "title": "MEDICAL SPECIALIST III",
+  "portal_code": null,
+  "salary_grade": 24,
+  "level": 4,
+  "current": true
+ },
+ {
+  "id": 47,
+  "title": "MEDICAL SPECIALIST IV",
+  "portal_code": null,
+  "salary_grade": 25,
+  "level": 4,
+  "current": true
+ },
+ {
+  "id": 48,
+  "title": "MEDICAL TECHNOLOGIST I",
+  "portal_code": null,
+  "salary_grade": 11,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 49,
+  "title": "MEDICAL TECHNOLOGIST II",
+  "portal_code": null,
+  "salary_grade": 15,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 50,
+  "title": "MEDICAL TECHNOLOGIST III",
+  "portal_code": null,
+  "salary_grade": 18,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 51,
+  "title": "MEDICAL TECHNOLOGIST IV",
+  "portal_code": null,
+  "salary_grade": 20,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 52,
+  "title": "MEDICAL TECHNOLOGIST V",
+  "portal_code": null,
+  "salary_grade": 22,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 53,
+  "title": "MIDWIFE I",
+  "portal_code": null,
+  "salary_grade": 9,
+  "level": 1,
+  "current": true
+ },
+ {
+  "id": 54,
+  "title": "MIDWIFE II",
+  "portal_code": null,
+  "salary_grade": 11,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 55,
+  "title": "NURSE I",
+  "portal_code": null,
+  "salary_grade": 15,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 56,
+  "title": "NURSE II",
+  "portal_code": null,
+  "salary_grade": 16,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 57,
+  "title": "NURSE III",
+  "portal_code": null,
+  "salary_grade": 17,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 58,
+  "title": "NURSE IV",
+  "portal_code": null,
+  "salary_grade": 19,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 59,
+  "title": "NURSE V",
+  "portal_code": null,
+  "salary_grade": 20,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 60,
+  "title": "NURSE VI",
+  "portal_code": null,
+  "salary_grade": 22,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 61,
+  "title": "NURSE VII",
+  "portal_code": null,
+  "salary_grade": 24,
+  "level": 4,
+  "current": true
+ },
+ {
+  "id": 62,
+  "title": "NURSING ATTENDANT I",
+  "portal_code": null,
+  "salary_grade": 4,
+  "level": 1,
+  "current": true
+ },
+ {
+  "id": 63,
+  "title": "NURSING ATTENDANT II",
+  "portal_code": null,
+  "salary_grade": 6,
+  "level": 1,
+  "current": true
+ },
+ {
+  "id": 64,
+  "title": "NUTRITIONIST DIETITIAN II",
+  "portal_code": null,
+  "salary_grade": 15,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 65,
+  "title": "NUTRITIONIST DIETITIAN IV",
+  "portal_code": null,
+  "salary_grade": 20,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 66,
+  "title": "NUTRITIONIST DIETITIAN V",
+  "portal_code": null,
+  "salary_grade": 22,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 67,
+  "title": "PHARMACIST II",
+  "portal_code": null,
+  "salary_grade": 15,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 68,
+  "title": "PHARMACIST IV",
+  "portal_code": null,
+  "salary_grade": 20,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 69,
+  "title": "PHARMACIST V",
+  "portal_code": null,
+  "salary_grade": 22,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 70,
+  "title": "PSYCHOLOGIST II",
+  "portal_code": null,
+  "salary_grade": 18,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 71,
+  "title": "PHYSICAL THERAPIST I",
+  "portal_code": null,
+  "salary_grade": 11,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 72,
+  "title": "PHYSICAL THERAPIST II",
+  "portal_code": null,
+  "salary_grade": 15,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 73,
+  "title": "PHYSICAL THERAPIST III",
+  "portal_code": null,
+  "salary_grade": 18,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 74,
+  "title": "PHYSICAL THERAPIST TECHNICIAN I",
+  "portal_code": null,
+  "salary_grade": 6,
+  "level": 1,
+  "current": true
+ },
+ {
+  "id": 75,
+  "title": "RADIOLOGIC TECHNOLOGIST I",
+  "portal_code": null,
+  "salary_grade": 11,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 76,
+  "title": "RADIOLOGIC TECHNOLOGIST II",
+  "portal_code": null,
+  "salary_grade": 15,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 77,
+  "title": "RADIOLOGIC TECHNOLOGIST III",
+  "portal_code": null,
+  "salary_grade": 18,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 78,
+  "title": "RADIOLOGIC TECHNOLOGIST IV",
+  "portal_code": null,
+  "salary_grade": 20,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 79,
+  "title": "RESPIRATORY THERAPIST I",
+  "portal_code": null,
+  "salary_grade": 10,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 80,
+  "title": "RESPIRATORY THERAPIST II",
+  "portal_code": null,
+  "salary_grade": 14,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 81,
+  "title": "RESPIRATORY THERAPIST III",
+  "portal_code": null,
+  "salary_grade": 17,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 82,
+  "title": "SOCIAL WELFARE ASSISTANT",
+  "portal_code": null,
+  "salary_grade": 8,
+  "level": 1,
+  "current": true
+ },
+ {
+  "id": 83,
+  "title": "SOCIAL WELFARE OFFICER I",
+  "portal_code": null,
+  "salary_grade": 11,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 84,
+  "title": "SOCIAL WELFARE OFFICER II",
+  "portal_code": null,
+  "salary_grade": 15,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 85,
+  "title": "SOCIAL WELFARE OFFICER IV",
+  "portal_code": null,
+  "salary_grade": 22,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 86,
+  "title": "STATISTICIAN II",
+  "portal_code": null,
+  "salary_grade": 15,
+  "level": 2,
+  "current": true
+ },
+ {
+  "id": 87,
+  "title": "STATISTICIAN III",
+  "portal_code": null,
+  "salary_grade": 18,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 88,
+  "title": "TRAINING ASSISTANT",
+  "portal_code": null,
+  "salary_grade": 8,
+  "level": 1,
+  "current": true
+ },
+ {
+  "id": 89,
+  "title": "TRAINING SPECIALIST IV",
+  "portal_code": null,
+  "salary_grade": 22,
+  "level": 3,
+  "current": true
+ },
+ {
+  "id": 90,
+  "title": "ACCOUNTANT I",
+  "portal_code": null,
+  "salary_grade": 12,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 91,
+  "title": "ACCOUNTANT II",
+  "portal_code": null,
+  "salary_grade": 16,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 92,
+  "title": "ADMINISTRATIVE AIDE I",
+  "portal_code": null,
+  "salary_grade": 1,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 93,
+  "title": "ADMINISTRATIVE AIDE I (UTILITY WORKER I)",
+  "portal_code": null,
+  "salary_grade": 1,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 94,
+  "title": "ADMINISTRATIVE AIDE II (CONSTRUCTION AND MAINTENANCE MAN)",
+  "portal_code": null,
+  "salary_grade": 2,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 95,
+  "title": "ADMINISTRATIVE AIDE III (UTILITY WORKER II)",
+  "portal_code": null,
+  "salary_grade": 3,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 96,
+  "title": "ADMINISTRATIVE AIDE IV",
+  "portal_code": null,
+  "salary_grade": 4,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 97,
+  "title": "ADMINISTRATIVE AIDE V (AUDIO-VISUAL ASSISTANT)",
+  "portal_code": null,
+  "salary_grade": 5,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 98,
+  "title": "ADMINISTRATIVE AIDE VI (UTILITY FOREMAN)",
+  "portal_code": null,
+  "salary_grade": 6,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 99,
+  "title": "ARCHITECT II",
+  "portal_code": null,
+  "salary_grade": 16,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 100,
+  "title": "ARTIFICIAL LIMB AND BRACE MAKER",
+  "portal_code": null,
+  "salary_grade": null,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 101,
+  "title": "ARTIFICIAL LIMB AND BRACE MAKER III",
+  "portal_code": null,
+  "salary_grade": 9,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 102,
+  "title": "CHIEF HEALTH PROGRAM OFFICER",
+  "portal_code": null,
+  "salary_grade": 24,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 103,
+  "title": "COOK I",
+  "portal_code": null,
+  "salary_grade": 3,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 104,
+  "title": "DENTAL HYGIENIST",
+  "portal_code": null,
+  "salary_grade": 10,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 105,
+  "title": "DORMITORY MANAGER I",
+  "portal_code": null,
+  "salary_grade": 9,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 106,
+  "title": "DORMITORY MANAGER II",
+  "portal_code": null,
+  "salary_grade": 11,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 107,
+  "title": "ENGINEER II",
+  "portal_code": null,
+  "salary_grade": 16,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 108,
+  "title": "HEALTH EDUCATION AND PROMOTION OFFICER II",
+  "portal_code": null,
+  "salary_grade": 14,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 109,
+  "title": "INFORMATION SYSTEM ANALYST I",
+  "portal_code": null,
+  "salary_grade": 12,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 110,
+  "title": "INFORMATION SYSTEM ANALYST II",
+  "portal_code": null,
+  "salary_grade": 16,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 111,
+  "title": "INFORMATION SYSTEM ANALYST III",
+  "portal_code": null,
+  "salary_grade": 19,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 112,
+  "title": "LABORATORY TECHNICIAN I",
+  "portal_code": null,
+  "salary_grade": 6,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 113,
+  "title": "LAUNDRY WORKER I",
+  "portal_code": null,
+  "salary_grade": 1,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 114,
+  "title": "LAUNDRY WORKER II",
+  "portal_code": null,
+  "salary_grade": 3,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 115,
+  "title": "LEGAL ASSISTANT I",
+  "portal_code": null,
+  "salary_grade": 10,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 116,
+  "title": "LEGAL ASSISTANT II",
+  "portal_code": null,
+  "salary_grade": 12,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 117,
+  "title": "MEDICAL LABORATORY TECHNICIAN I",
+  "portal_code": null,
+  "salary_grade": 6,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 118,
+  "title": "MEDICAL OFFICER V",
+  "portal_code": null,
+  "salary_grade": 25,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 119,
+  "title": "MEDICAL SPECIALIST II (PT)",
+  "portal_code": null,
+  "salary_grade": 23,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 120,
+  "title": "MEDICAL SPECIALIST III (PT)",
+  "portal_code": null,
+  "salary_grade": 24,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 121,
+  "title": "MIDWIFE III",
+  "portal_code": null,
+  "salary_grade": 13,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 122,
+  "title": "NUTRITIONIST DIETITIAN I",
+  "portal_code": null,
+  "salary_grade": 11,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 123,
+  "title": "NUTRITIONIST DIETITIAN III",
+  "portal_code": null,
+  "salary_grade": 18,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 124,
+  "title": "OCCUPATIONAL THERAPIST I",
+  "portal_code": null,
+  "salary_grade": 11,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 125,
+  "title": "OCCUPATIONAL THERAPIST IV",
+  "portal_code": null,
+  "salary_grade": 22,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 126,
+  "title": "PHARMACIST I",
+  "portal_code": null,
+  "salary_grade": 11,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 127,
+  "title": "PHARMACIST III",
+  "portal_code": null,
+  "salary_grade": 18,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 128,
+  "title": "PHYSICAL THERAPIST IV",
+  "portal_code": null,
+  "salary_grade": 22,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 129,
+  "title": "PHYSICAL THERAPIST TECHNICIAN II",
+  "portal_code": null,
+  "salary_grade": 8,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 130,
+  "title": "PLANNING OFFICER I",
+  "portal_code": null,
+  "salary_grade": 11,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 131,
+  "title": "PLANNING OFFICER III",
+  "portal_code": null,
+  "salary_grade": 18,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 132,
+  "title": "PSYCHOLOGIST III",
+  "portal_code": null,
+  "salary_grade": 20,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 133,
+  "title": "RADIOLOGIC TECHNOLOGIST V",
+  "portal_code": null,
+  "salary_grade": 22,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 134,
+  "title": "SECURITY GUARD I",
+  "portal_code": null,
+  "salary_grade": 3,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 135,
+  "title": "SECURITY GUARD II",
+  "portal_code": null,
+  "salary_grade": 5,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 136,
+  "title": "SENIOR HEALTH PROGRAM OFFICER",
+  "portal_code": null,
+  "salary_grade": 18,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 137,
+  "title": "SOCIAL WELFARE OFFICER III",
+  "portal_code": null,
+  "salary_grade": 18,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 138,
+  "title": "STATISTICIAN I",
+  "portal_code": null,
+  "salary_grade": 11,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 139,
+  "title": "SUPERVISING HEALTH PROGRAM OFFICER",
+  "portal_code": null,
+  "salary_grade": 22,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 140,
+  "title": "TRAINING SPECIALIST II",
+  "portal_code": null,
+  "salary_grade": 15,
+  "level": null,
+  "current": true
+ },
+ {
+  "id": 141,
+  "title": "WARD ASSISTANT",
+  "portal_code": null,
+  "salary_grade": 7,
+  "level": null,
+  "current": true
+ }
+]

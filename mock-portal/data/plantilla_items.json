@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "title": "CHIEF OF MEDICAL PROFESSIONAL STAFF II",
+        "salary_grade": 26,
+        "division_code": "MS",
+        "division_name": "MEDICAL SERVICE",
+        "area_name": "CHIEF OF MEDICAL PROFESSIONAL STAFF",
+        "quantity": 1,
+        "item_name": "OSEC-DOHB-CMPS2-1-2019"
+    },
+    {
+        "id": 2,
+        "title": "ADMINISTRATIVE OFFICER IV",
+        "salary_grade": 15,
+        "division_code": "HOPSS",
+        "division_name": "HOSPITAL OPERATIONS AND PATIENT SUPPORT SERVICE",
+        "area_name": "HUMAN RESOURCE MANAGEMENT OFFICE",
+        "quantity": 1,
+        "item_name": "OSEC-DOHB-ADOF4-2-2019"
+    },
+    {
+        "id": 3,
+        "title": "ADMINISTRATIVE ASSISTANT I",
+        "salary_grade": 7,
+        "division_code": "HOPSS",
+        "division_name": "HOSPITAL OPERATIONS AND PATIENT SUPPORT SERVICE",
+        "area_name": "MATERIALS MANAGEMENT",
+        "quantity": 1,
+        "item_name": "OSEC-DOHB-ADAS1-3-2019"
+    },
+    {
+        "id": 4,
+        "title": "ADMINISTRATIVE ASSISTANT I",
+        "salary_grade": 7,
+        "division_code": "AHPS",
+        "division_name": "ALLIED HEALTH PROFESSIONAL SERVICE",
+        "area_name": "HEALTH INFORMATION MANAGEMENT SYSTEM (MEDICAL RECORDS)",
+        "quantity": 1,
+        "item_name": "OSEC-DOHB-ADAS1-4-2004"
+    },
+    {
+        "id": 5,
+        "title": "ADMINISTRATIVE ASSISTANT II",
+        "salary_grade": 8,
+        "division_code": "FS",
+        "division_name": "FINANCE SERVICE",
+        "area_name": "CASH OPERATION SECTION",
+        "quantity": 1,
+        "item_name": "OSEC-DOHB-ADAS2-6-2004"
+    },
+    {
+        "id": 6,
+        "title": "ADMINISTRATIVE ASSISTANT II",
+        "salary_grade": 8,
+        "division_code": "HOPSS",
+        "division_name": "HOSPITAL OPERATIONS AND PATIENT SUPPORT SERVICE",
+        "area_name": "HUMAN RESOURCE MANAGEMENT OFFICE",
+        "quantity": 1,
+        "item_name": "OSEC-DOHB-ADAS2-7-2019"
+    },
+    {
+        "id": 7,
+        "title": "SUPERVISING ADMINISTRATIVE OFFICER",
+        "salary_grade": 22,
+        "division_code": "HOPSS",
+        "division_name": "HOSPITAL OPERATIONS AND PATIENT SUPPORT SERVICE",
+        "area_name": "HUMAN RESOURCE MANAGEMENT OFFICE",
+        "quantity": 1,
+        "item_name": "OSEC-DOHB-SADOF-8-2004"
+    },
+    {
+        "id": 8,
+        "title": "SUPERVISING ADMINISTRATIVE OFFICER",
+        "salary_grade": 22,
+        "division_code": "FS",
+        "division_name": "FINANCE SERVICE",
+        "area_name": "BUDGET",
+        "quantity": 1,
+        "item_name": "OSEC-DOHB-SADOF-9-1998"
+    },
+    {
+        "id": 9,
+        "title": "ADMINISTRATIVE AIDE VI",
+        "salary_grade": 6,
+        "division_code": "HOPSS",
+        "division_name": "HOSPITAL OPERATIONS AND PATIENT SUPPORT SERVICE",
+        "area_name": "ENGINEERING-BUILDING MAINTENANCE",
+        "quantity": 1,
+        "item_name": "OSEC-DOHB-ADA6-11-2019"
+    },
+    {
+        "id": 10,
+        "title": "CHIEF OF MEDICAL PROFESSIONAL STAFF II",
+        "salary_grade": 26,
+        "division_code": "OCH",
+        "division_name": "OFFICE OF THE CHIEF OF HOSPITAL",
+        "area_name": "MEDICAL CENTER CHIEF OFFICE",
+        "quantity": 1,
+        "item_name": "OSEC-DOHB-CMPS2-12-2013"
+    },
+    {
+        "id": 11,
+        "title": "ADMINISTRATIVE ASSISTANT I",
+        "salary_grade": 7,
+        "division_code": "HOPSS",
+        "division_name": "HOSPITAL OPERATIONS AND PATIENT SUPPORT SERVICE",
+        "area_name": "SECURITY OFFICE",
+        "quantity": 1,
+        "item_name": "OSEC-DOHB-ADAS1-13-2004"
+    },
+    {
+        "id": 12,
+        "title": "ADMINISTRATIVE ASSISTANT I",
+        "salary_grade": 7,
+        "division_code": "HOPSS",
+        "division_name": "HOSPITAL OPERATIONS AND PATIENT SUPPORT SERVICE",
+        "area_name": "HUMAN RESOURCE MANAGEMENT OFFICE",
+        "quantity": 2,
+        "item_name": "OSEC-DOHB-ADAS1-21-2019"
+    },
+    {
+        "id": 13,
+        "title": "NURSE II",
+        "salary_grade": 16,
+        "division_code": "NS",
+        "division_name": "NURSING SERVICE",
+        "area_name": "CHIEF NURSE OFFICE",
+        "quantity": 1,
+        "item_name": "OSEC-DOHB-NURSE2-4-2013"
+    },
+    {
+        "id": 14,
+        "item_name": "OSEC-DOHB-CTMT2-60183-2013",
+        "title": "COMPUTER MAINTENANCE TECHNOLOGIST II",
+        "salary_grade": 15,
+        "division_code": "HOPSS",
+        "division_name": "HOSPITAL OPERATIONS AND PATIENT SUPPORT SERVICE",
+        "area_name": "MANAGEMENT INFORMATION SERVICES",
+        "quantity": 1
+    },
+    {
+        "id": 15,
+        "item_name": "OSEC-DOHB-INFOSA2-60031-2023",
+        "title": "INFORMATION SYSTEM ANALYST I",
+        "salary_grade": 12,
+        "division_code": "HOPSS",
+        "division_name": "HOSPITAL OPERATIONS AND PATIENT SUPPORT SERVICE",
+        "area_name": "MANAGEMENT INFORMATION SERVICES",
+        "quantity": 1
+    },
+    {
+        "id": 16,
+        "item_name": "OSEC-DOHB-SVHPO-60031-2023",
+        "title": "SUPERVISING HEALTH PROGRAM OFFICER",
+        "salary_grade": 22,
+        "division_code": "HOPSS",
+        "division_name": "HOSPITAL OPERATIONS AND PATIENT SUPPORT SERVICE",
+        "area_name": "MANAGEMENT INFORMATION SERVICES",
+        "quantity": 1
+    }
+]

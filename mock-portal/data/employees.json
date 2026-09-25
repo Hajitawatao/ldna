@@ -1,0 +1,44 @@
+[
+    {
+        "employee_id": "20260245",
+        "surname": "Tawatao",
+        "first_name": "Al Haji Real",
+        "middle_initial": "R",
+        "appointment": "Permanent",
+        "item_id": 15,
+        "slot": 1,
+        "position_title": null,
+        "salary_grade": null,
+        "division_code": null,
+        "division_name": null,
+        "area_name": null
+    },
+    {
+        "employee_id": "20170719",
+        "surname": "Nabua",
+        "first_name": "Preence Klint",
+        "middle_initial": "E",
+        "appointment": "Permanent",
+        "item_id": 14,
+        "slot": 1,
+        "position_title": null,
+        "salary_grade": null,
+        "division_code": null,
+        "division_name": null,
+        "area_name": null
+    },
+    {
+        "employee_id": "150927",
+        "surname": "Fetiza",
+        "first_name": "Miguel Karlo",
+        "middle_initial": "C",
+        "appointment": "Permanent",
+        "item_id": 16,
+        "slot": 1,
+        "position_title": null,
+        "salary_grade": null,
+        "division_code": null,
+        "division_name": null,
+        "area_name": null
+    }
+]
