@@ -1,0 +1,26 @@
+[
+ {
+  "level": 1,
+  "label": "Basic",
+  "min_sg": 1,
+  "max_sg": 10
+ },
+ {
+  "level": 2,
+  "label": "Intermediate",
+  "min_sg": 11,
+  "max_sg": 17
+ },
+ {
+  "level": 3,
+  "label": "Advanced",
+  "min_sg": 18,
+  "max_sg": 23
+ },
+ {
+  "level": 4,
+  "label": "Expert",
+  "min_sg": 24,
+  "max_sg": 33
+ }
+]

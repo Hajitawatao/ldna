@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "code": "HOPSS",
+  "name": "HOSPITAL OPERATIONS AND PATIENT SUPPORT SERVICE"
+ },
+ {
+  "id": 2,
+  "code": "MS",
+  "name": "MEDICAL SERVICE"
+ },
+ {
+  "id": 3,
+  "code": "NS",
+  "name": "NURSING SERVICE"
+ },
+ {
+  "id": 4,
+  "code": "FS",
+  "name": "FINANCE SERVICE"
+ },
+ {
+  "id": 5,
+  "code": "AHPS",
+  "name": "ALLIED HEALTH PROFESSIONAL SERVICE"
+ },
+ {
+  "id": 6,
+  "code": "OCH",
+  "name": "OFFICE OF THE CHIEF OF HOSPITAL"
+ }
+]

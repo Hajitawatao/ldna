@@ -1,0 +1,9 @@
+{
+  "name": "ldna",
+  "private": true,
+  "description": "Run everything from the project root: npm run dev",
+  "scripts": {
+    "dev": "npm --prefix frontend install --no-audit --no-fund && npm --prefix frontend run dev",
+    "build": "npm --prefix frontend install --no-audit --no-fund && npm --prefix frontend run build"
+  }
+}

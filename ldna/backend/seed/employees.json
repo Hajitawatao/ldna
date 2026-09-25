@@ -1,0 +1,110 @@
+[
+ {
+  "id": "20041137",
+  "surname": "Santos",
+  "first_name": "Maria",
+  "middle_initial": "C.",
+  "employment_status": "Regular",
+  "position_id": 1,
+  "office_id": 2
+ },
+ {
+  "id": "20111274",
+  "surname": "Dela Cruz",
+  "first_name": "Juan",
+  "middle_initial": "V.",
+  "employment_status": "Regular",
+  "position_id": 14,
+  "office_id": 6
+ },
+ {
+  "id": "20151411",
+  "surname": "Rivera",
+  "first_name": "Jose",
+  "middle_initial": "D.",
+  "employment_status": "Regular",
+  "position_id": 8,
+  "office_id": 7
+ },
+ {
+  "id": "20191548",
+  "surname": "Castillo",
+  "first_name": "Andres",
+  "middle_initial": "M.",
+  "employment_status": "Regular",
+  "position_id": 8,
+  "office_id": 9
+ },
+ {
+  "id": "20131685",
+  "surname": "Navarro",
+  "first_name": "Bea",
+  "middle_initial": "S.",
+  "employment_status": "Contractual",
+  "position_id": 8,
+  "office_id": 8
+ },
+ {
+  "id": "20081822",
+  "surname": "Ramos",
+  "first_name": "Lea",
+  "middle_initial": "P.",
+  "employment_status": "Regular",
+  "position_id": 9,
+  "office_id": 5
+ },
+ {
+  "id": "20211959",
+  "surname": "Flores",
+  "first_name": "Mark",
+  "middle_initial": "A.",
+  "employment_status": "Regular",
+  "position_id": 9,
+  "office_id": 6
+ },
+ {
+  "id": "20062096",
+  "surname": "Mendoza",
+  "first_name": "Liza",
+  "middle_initial": "R.",
+  "employment_status": "Regular",
+  "position_id": 4,
+  "office_id": 6
+ },
+ {
+  "id": "20102233",
+  "surname": "Reyes",
+  "first_name": "Paolo",
+  "middle_initial": "S.",
+  "employment_status": "Regular",
+  "position_id": 4,
+  "office_id": 4
+ },
+ {
+  "id": "20022370",
+  "surname": "Bautista",
+  "first_name": "Carla",
+  "middle_initial": "T.",
+  "employment_status": "Contractual",
+  "position_id": 3,
+  "office_id": 3
+ },
+ {
+  "id": "20172507",
+  "surname": "Villanueva",
+  "first_name": "Ramon",
+  "middle_initial": "P.",
+  "employment_status": "Regular",
+  "position_id": 7,
+  "office_id": 11
+ },
+ {
+  "id": "19982644",
+  "surname": "Aquino",
+  "first_name": "Grace",
+  "middle_initial": "L.",
+  "employment_status": "Regular",
+  "position_id": 1,
+  "office_id": 1
+ }
+]

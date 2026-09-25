@@ -1,0 +1,717 @@
+{
+ "divisions": [
+  {
+   "code": "HOPSS",
+   "name": "HOSPITAL OPERATIONS AND PATIENT SUPPORT SERVICE",
+   "areas": [
+    "CHIEF ADMINISTRATIVE OFFICE",
+    "COMMISSION ON AUDIT",
+    "ENGINEERING-BUILDING MAINTENANCE",
+    "ENGINEERING-INDUSTRIAL",
+    "ENGINEERING-INFRASTRUCTURE",
+    "ENGINEERING-OXYGEN GENERATION PLANT",
+    "HOUSEKEEPING OFFICE",
+    "HOUSEKEEPING OFFICE- BINLOC",
+    "HUMAN RESOURCE MANAGEMENT OFFICE",
+    "INTEGRATED PROCUREMENT AND AWARDS DEPARTMENT",
+    "LAUNDRY AND LINEN",
+    "MANAGEMENT INFORMATION SERVICES",
+    "MATERIALS MANAGEMENT",
+    "MEDIA AFFAIRS AND PUBLISHING UNIT",
+    "SECURITY OFFICE",
+    "TRANSPORT AND VEHICLE MAINTENANCE"
+   ]
+  },
+  {
+   "code": "MS",
+   "name": "MEDICAL SERVICE",
+   "areas": [
+    "ANATOMICAL LABORATORY",
+    "ANESTHESIA DEPARTMENT",
+    "CANCER CENTER-RADIATION ONCOLOGY",
+    "CHIEF OF CLINICS",
+    "CHIEF OF MEDICAL PROFESSIONAL STAFF",
+    "CLINICAL LABORATORY",
+    "DENTAL CLINIC",
+    "DEPARTMENT OF MENTAL HEALTH",
+    "DEPLOYED",
+    "DERMATOLOGY",
+    "DRUG TESTING LABORATORY",
+    "EMERGENCY MEDICINE DEPARTMENT & HEALTH EMERGENCY MANAGEMENT STAFF",
+    "ENT CLINIC",
+    "EPILEPSY MONITORING UNIT",
+    "FAMILY AND COMMUNITY MEDICINE",
+    "INTERNAL MEDICINE DEPARTMENT",
+    "LATERAL ENTRY",
+    "MOLECULAR BIOLOGY LABORATORY",
+    "NVBSP / BLOOD BANK",
+    "OB-GYNE DEPARTMENT",
+    "OPHTHALMOLOGY CLINIC",
+    "ORTHOPEDICS CLINIC",
+    "OUTPATIENT DEPARTMENT",
+    "PATHOLOGY DEPARTMENT",
+    "PEDIATRICS DEPARTMENT",
+    "PHYSICAL MEDICINE AND REHABILITATION",
+    "PINAS",
+    "PULMONARY / RESPIRATORY UNIT",
+    "RADIOLOGY DEPARTMENT",
+    "SURGERY DEPARTMENT",
+    "TOXICOLOGY UNIT",
+    "WOMEN & CHILDREN PROTECTION UNIT"
+   ]
+  },
+  {
+   "code": "NS",
+   "name": "NURSING SERVICE",
+   "areas": [
+    "ACUTE STROKE UNIT",
+    "ANIMAL BITE TREATMENT CENTER",
+    "CANCER CENTER-RADIATION ONCOLOGY",
+    "CENTER FOR EMERGING AND REEMERGING DISEASES",
+    "CENTRAL SUPPLY & STERILIZATION",
+    "CHIEF NURSE OFFICE",
+    "COMMUNITY",
+    "DELIVERY ROOM",
+    "DEPARTMENT OF MENTAL HEALTH",
+    "DERMATOLOGY",
+    "DIABETES CLINIC",
+    "DOTS CLINIC",
+    "EMERGENCY MEDICINE DEPARTMENT & HEALTH EMERGENCY MANAGEMENT STAFF",
+    "EMERGENCY SHORT STAY WARD",
+    "ENT CLINIC",
+    "EPILEPSY MONITORING UNIT",
+    "FAMILY AND COMMUNITY MEDICINE",
+    "FAMILY PLANNING CLINIC",
+    "GERIATRIC CLINIC",
+    "HEART STATION",
+    "HEMODIALYSIS UNIT",
+    "ICU-CCU",
+    "MEDICAL CLINIC",
+    "MEDICAL WARD",
+    "MICU",
+    "MINOR OR CLINIC",
+    "NICU",
+    "OB-GYN ULTRASOUND UNIT",
+    "OB-GYNE CLINIC",
+    "OB-GYNE WARD",
+    "OPERATING ROOM",
+    "OPHTHALMOLOGY CLINIC",
+    "ORTHOPEDICS CLINIC",
+    "OUTPATIENT DEPARTMENT",
+    "PAY WARD",
+    "PEDIATRICS CLINIC",
+    "PEDIATRICS WARD",
+    "PINAS",
+    "RECOVERY ROOM",
+    "SPECIALTY CLINIC (SURGERY)",
+    "SURGERY WARD",
+    "SURGICAL CLINIC",
+    "VETERANS WARD"
+   ]
+  },
+  {
+   "code": "FS",
+   "name": "FINANCE SERVICE",
+   "areas": [
+    "ACCOUNTING",
+    "BILLING",
+    "BUDGET",
+    "CASH OPERATION SECTION",
+    "CLAIMS"
+   ]
+  },
+  {
+   "code": "AHPS",
+   "name": "ALLIED HEALTH PROFESSIONAL SERVICE",
+   "areas": [
+    "ADMITTING / INFORMATION",
+    "CHIEF HEALTH PROGRAM OFFICE",
+    "HEALTH INFORMATION MANAGEMENT SYSTEM (MEDICAL RECORDS)",
+    "MEDICAL EQUIPMENT",
+    "MEDICAL SOCIAL SERVICE",
+    "NUTRITION AND DIETETICS DEPARTMENT",
+    "PHARMACY SECTION",
+    "REGISTRATION"
+   ]
+  },
+  {
+   "code": "OCH",
+   "name": "OFFICE OF THE CHIEF OF HOSPITAL",
+   "areas": [
+    "CENTER FOR EDUCATION, TRAINING AND RESEARCH",
+    "COMMAND CENTER",
+    "CUSTOMER SERVICE REPRESENTATIVE",
+    "HEALTH EMERGENCY MANAGEMENT SERVICE",
+    "HOSPITAL AS CENTER FOR WELLNESS PROGRAM UNIT",
+    "HOSPITAL EPIDEMIOLOGY CENTER",
+    "HOSPITAL INFECTION PREVENTION & CONTROL MANAGEMENT OFFICE",
+    "LEGAL OFFICE",
+    "MEDICAL CENTER CHIEF OFFICE",
+    "OCCUPATIONAL PATIENT SAFETY AND HEALTH MANAGEMENT OFFICE",
+    "OFFICE OF STRATEGY MANAGEMENT",
+    "PATIENT ACTION CENTER",
+    "PUBLIC HEALTH UNIT",
+    "QUALITY MANAGEMENT SYSTEM OFFICE",
+    "SECRETARIAT OFFICE OF THE MEDICAL CENTER CHIEF"
+   ]
+  }
+ ],
+ "positions": [
+  {
+   "title": "ACCOUNTANT I",
+   "salary_grade": 12
+  },
+  {
+   "title": "ACCOUNTANT II",
+   "salary_grade": 16
+  },
+  {
+   "title": "ACCOUNTANT III",
+   "salary_grade": 19
+  },
+  {
+   "title": "ACCOUNTANT IV",
+   "salary_grade": 22
+  },
+  {
+   "title": "ADMINISTRATIVE AIDE I",
+   "salary_grade": 1
+  },
+  {
+   "title": "ADMINISTRATIVE AIDE I (UTILITY WORKER I)",
+   "salary_grade": 1
+  },
+  {
+   "title": "ADMINISTRATIVE AIDE II (CONSTRUCTION AND MAINTENANCE MAN)",
+   "salary_grade": 2
+  },
+  {
+   "title": "ADMINISTRATIVE AIDE III",
+   "salary_grade": 3
+  },
+  {
+   "title": "ADMINISTRATIVE AIDE III (UTILITY WORKER II)",
+   "salary_grade": 3
+  },
+  {
+   "title": "ADMINISTRATIVE AIDE IV",
+   "salary_grade": 4
+  },
+  {
+   "title": "ADMINISTRATIVE AIDE V",
+   "salary_grade": 5
+  },
+  {
+   "title": "ADMINISTRATIVE AIDE V (AUDIO-VISUAL ASSISTANT)",
+   "salary_grade": 5
+  },
+  {
+   "title": "ADMINISTRATIVE AIDE VI",
+   "salary_grade": 6
+  },
+  {
+   "title": "ADMINISTRATIVE AIDE VI (UTILITY FOREMAN)",
+   "salary_grade": 6
+  },
+  {
+   "title": "ADMINISTRATIVE ASSISTANT I",
+   "salary_grade": 7
+  },
+  {
+   "title": "ADMINISTRATIVE ASSISTANT II",
+   "salary_grade": 8
+  },
+  {
+   "title": "ADMINISTRATIVE ASSISTANT III",
+   "salary_grade": 9
+  },
+  {
+   "title": "ADMINISTRATIVE OFFICER I",
+   "salary_grade": 10
+  },
+  {
+   "title": "ADMINISTRATIVE OFFICER II",
+   "salary_grade": 11
+  },
+  {
+   "title": "ADMINISTRATIVE OFFICER III",
+   "salary_grade": 14
+  },
+  {
+   "title": "ADMINISTRATIVE OFFICER IV",
+   "salary_grade": 15
+  },
+  {
+   "title": "ADMINISTRATIVE OFFICER V",
+   "salary_grade": 18
+  },
+  {
+   "title": "ARCHITECT II",
+   "salary_grade": 16
+  },
+  {
+   "title": "ARTIFICIAL LIMB AND BRACE MAKER",
+   "salary_grade": null
+  },
+  {
+   "title": "ARTIFICIAL LIMB AND BRACE MAKER III",
+   "salary_grade": 9
+  },
+  {
+   "title": "ATTORNEY IV",
+   "salary_grade": 23
+  },
+  {
+   "title": "CHEMIST II",
+   "salary_grade": 15
+  },
+  {
+   "title": "CHEMIST III",
+   "salary_grade": 18
+  },
+  {
+   "title": "CHIEF ADMINISTRATIVE OFFICER",
+   "salary_grade": 24
+  },
+  {
+   "title": "CHIEF HEALTH PROGRAM OFFICER",
+   "salary_grade": 24
+  },
+  {
+   "title": "CHIEF OF MEDICAL PROFESSIONAL STAFF II",
+   "salary_grade": 26
+  },
+  {
+   "title": "COMPUTER MAINTENANCE TECHNOLOGIST II",
+   "salary_grade": 15
+  },
+  {
+   "title": "COMPUTER MAINTENANCE TECHNOLOGIST III",
+   "salary_grade": 17
+  },
+  {
+   "title": "COOK I",
+   "salary_grade": 3
+  },
+  {
+   "title": "COOK II",
+   "salary_grade": 5
+  },
+  {
+   "title": "DENTAL AIDE",
+   "salary_grade": 4
+  },
+  {
+   "title": "DENTAL HYGIENIST",
+   "salary_grade": 10
+  },
+  {
+   "title": "DENTIST II",
+   "salary_grade": 17
+  },
+  {
+   "title": "DENTIST III",
+   "salary_grade": 20
+  },
+  {
+   "title": "DENTIST V",
+   "salary_grade": 24
+  },
+  {
+   "title": "DORMITORY MANAGER I",
+   "salary_grade": 9
+  },
+  {
+   "title": "DORMITORY MANAGER II",
+   "salary_grade": 11
+  },
+  {
+   "title": "ENGINEER II",
+   "salary_grade": 16
+  },
+  {
+   "title": "ENGINEER III",
+   "salary_grade": 19
+  },
+  {
+   "title": "ENGINEER IV",
+   "salary_grade": 22
+  },
+  {
+   "title": "FINANCIAL AND MANAGEMENT OFFICER II",
+   "salary_grade": 24
+  },
+  {
+   "title": "HEALTH EDUCATION AND PROMOTION OFFICER II",
+   "salary_grade": 14
+  },
+  {
+   "title": "HEALTH PHYSICIST III",
+   "salary_grade": 22
+  },
+  {
+   "title": "HOSPITAL HOUSEKEEPER",
+   "salary_grade": 8
+  },
+  {
+   "title": "INFORMATION SYSTEM ANALYST I",
+   "salary_grade": 12
+  },
+  {
+   "title": "INFORMATION SYSTEM ANALYST II",
+   "salary_grade": 16
+  },
+  {
+   "title": "INFORMATION SYSTEM ANALYST III",
+   "salary_grade": 19
+  },
+  {
+   "title": "LABORATORY AIDE II",
+   "salary_grade": 4
+  },
+  {
+   "title": "LABORATORY TECHNICIAN I",
+   "salary_grade": 6
+  },
+  {
+   "title": "LAUNDRY WORKER I",
+   "salary_grade": 1
+  },
+  {
+   "title": "LAUNDRY WORKER II",
+   "salary_grade": 3
+  },
+  {
+   "title": "LEGAL ASSISTANT I",
+   "salary_grade": 10
+  },
+  {
+   "title": "LEGAL ASSISTANT II",
+   "salary_grade": 12
+  },
+  {
+   "title": "MEDICAL CENTER CHIEF II",
+   "salary_grade": 27
+  },
+  {
+   "title": "MEDICAL EQUIPMENT TECHNICIAN I",
+   "salary_grade": 6
+  },
+  {
+   "title": "MEDICAL EQUIPMENT TECHNICIAN II",
+   "salary_grade": 8
+  },
+  {
+   "title": "MEDICAL EQUIPMENT TECHNICIAN III",
+   "salary_grade": 11
+  },
+  {
+   "title": "MEDICAL EQUIPMENT TECHNICIAN IV",
+   "salary_grade": 13
+  },
+  {
+   "title": "MEDICAL LABORATORY TECHNICIAN I",
+   "salary_grade": 6
+  },
+  {
+   "title": "MEDICAL LABORATORY TECHNICIAN III",
+   "salary_grade": 10
+  },
+  {
+   "title": "MEDICAL OFFICER III",
+   "salary_grade": 21
+  },
+  {
+   "title": "MEDICAL OFFICER IV",
+   "salary_grade": 23
+  },
+  {
+   "title": "MEDICAL OFFICER V",
+   "salary_grade": 25
+  },
+  {
+   "title": "MEDICAL SPECIALIST II",
+   "salary_grade": 23
+  },
+  {
+   "title": "MEDICAL SPECIALIST II (PT)",
+   "salary_grade": 23
+  },
+  {
+   "title": "MEDICAL SPECIALIST III",
+   "salary_grade": 24
+  },
+  {
+   "title": "MEDICAL SPECIALIST III (PT)",
+   "salary_grade": 24
+  },
+  {
+   "title": "MEDICAL SPECIALIST IV",
+   "salary_grade": 25
+  },
+  {
+   "title": "MEDICAL TECHNOLOGIST I",
+   "salary_grade": 11
+  },
+  {
+   "title": "MEDICAL TECHNOLOGIST II",
+   "salary_grade": 15
+  },
+  {
+   "title": "MEDICAL TECHNOLOGIST III",
+   "salary_grade": 18
+  },
+  {
+   "title": "MEDICAL TECHNOLOGIST IV",
+   "salary_grade": 20
+  },
+  {
+   "title": "MEDICAL TECHNOLOGIST V",
+   "salary_grade": 22
+  },
+  {
+   "title": "MIDWIFE I",
+   "salary_grade": 9
+  },
+  {
+   "title": "MIDWIFE II",
+   "salary_grade": 11
+  },
+  {
+   "title": "MIDWIFE III",
+   "salary_grade": 13
+  },
+  {
+   "title": "NURSE I",
+   "salary_grade": 15
+  },
+  {
+   "title": "NURSE II",
+   "salary_grade": 16
+  },
+  {
+   "title": "NURSE III",
+   "salary_grade": 17
+  },
+  {
+   "title": "NURSE IV",
+   "salary_grade": 19
+  },
+  {
+   "title": "NURSE V",
+   "salary_grade": 20
+  },
+  {
+   "title": "NURSE VI",
+   "salary_grade": 22
+  },
+  {
+   "title": "NURSE VII",
+   "salary_grade": 24
+  },
+  {
+   "title": "NURSING ATTENDANT I",
+   "salary_grade": 4
+  },
+  {
+   "title": "NURSING ATTENDANT II",
+   "salary_grade": 6
+  },
+  {
+   "title": "NUTRITIONIST DIETITIAN I",
+   "salary_grade": 11
+  },
+  {
+   "title": "NUTRITIONIST DIETITIAN II",
+   "salary_grade": 15
+  },
+  {
+   "title": "NUTRITIONIST DIETITIAN III",
+   "salary_grade": 18
+  },
+  {
+   "title": "NUTRITIONIST DIETITIAN IV",
+   "salary_grade": 20
+  },
+  {
+   "title": "NUTRITIONIST DIETITIAN V",
+   "salary_grade": 22
+  },
+  {
+   "title": "OCCUPATIONAL THERAPIST I",
+   "salary_grade": 11
+  },
+  {
+   "title": "OCCUPATIONAL THERAPIST IV",
+   "salary_grade": 22
+  },
+  {
+   "title": "PHARMACIST I",
+   "salary_grade": 11
+  },
+  {
+   "title": "PHARMACIST II",
+   "salary_grade": 15
+  },
+  {
+   "title": "PHARMACIST III",
+   "salary_grade": 18
+  },
+  {
+   "title": "PHARMACIST IV",
+   "salary_grade": 20
+  },
+  {
+   "title": "PHARMACIST V",
+   "salary_grade": 22
+  },
+  {
+   "title": "PHYSICAL THERAPIST I",
+   "salary_grade": 11
+  },
+  {
+   "title": "PHYSICAL THERAPIST II",
+   "salary_grade": 15
+  },
+  {
+   "title": "PHYSICAL THERAPIST III",
+   "salary_grade": 18
+  },
+  {
+   "title": "PHYSICAL THERAPIST IV",
+   "salary_grade": 22
+  },
+  {
+   "title": "PHYSICAL THERAPIST TECHNICIAN I",
+   "salary_grade": 6
+  },
+  {
+   "title": "PHYSICAL THERAPIST TECHNICIAN II",
+   "salary_grade": 8
+  },
+  {
+   "title": "PLANNING OFFICER I",
+   "salary_grade": 11
+  },
+  {
+   "title": "PLANNING OFFICER III",
+   "salary_grade": 18
+  },
+  {
+   "title": "PSYCHOLOGIST II",
+   "salary_grade": 18
+  },
+  {
+   "title": "PSYCHOLOGIST III",
+   "salary_grade": 20
+  },
+  {
+   "title": "RADIOLOGIC TECHNOLOGIST I",
+   "salary_grade": 11
+  },
+  {
+   "title": "RADIOLOGIC TECHNOLOGIST II",
+   "salary_grade": 15
+  },
+  {
+   "title": "RADIOLOGIC TECHNOLOGIST III",
+   "salary_grade": 18
+  },
+  {
+   "title": "RADIOLOGIC TECHNOLOGIST IV",
+   "salary_grade": 20
+  },
+  {
+   "title": "RADIOLOGIC TECHNOLOGIST V",
+   "salary_grade": 22
+  },
+  {
+   "title": "RESPIRATORY THERAPIST I",
+   "salary_grade": 10
+  },
+  {
+   "title": "RESPIRATORY THERAPIST II",
+   "salary_grade": 14
+  },
+  {
+   "title": "RESPIRATORY THERAPIST III",
+   "salary_grade": 17
+  },
+  {
+   "title": "SEAMSTRESS",
+   "salary_grade": 2
+  },
+  {
+   "title": "SECURITY GUARD I",
+   "salary_grade": 3
+  },
+  {
+   "title": "SECURITY GUARD II",
+   "salary_grade": 5
+  },
+  {
+   "title": "SENIOR HEALTH PROGRAM OFFICER",
+   "salary_grade": 18
+  },
+  {
+   "title": "SOCIAL WELFARE ASSISTANT",
+   "salary_grade": 8
+  },
+  {
+   "title": "SOCIAL WELFARE OFFICER I",
+   "salary_grade": 11
+  },
+  {
+   "title": "SOCIAL WELFARE OFFICER II",
+   "salary_grade": 15
+  },
+  {
+   "title": "SOCIAL WELFARE OFFICER III",
+   "salary_grade": 18
+  },
+  {
+   "title": "SOCIAL WELFARE OFFICER IV",
+   "salary_grade": 22
+  },
+  {
+   "title": "STATISTICIAN I",
+   "salary_grade": 11
+  },
+  {
+   "title": "STATISTICIAN II",
+   "salary_grade": 15
+  },
+  {
+   "title": "STATISTICIAN III",
+   "salary_grade": 18
+  },
+  {
+   "title": "SUPERVISING ADMINISTRATIVE OFFICER",
+   "salary_grade": 22
+  },
+  {
+   "title": "SUPERVISING HEALTH PROGRAM OFFICER",
+   "salary_grade": 22
+  },
+  {
+   "title": "TRAINING ASSISTANT",
+   "salary_grade": 8
+  },
+  {
+   "title": "TRAINING SPECIALIST II",
+   "salary_grade": 15
+  },
+  {
+   "title": "TRAINING SPECIALIST IV",
+   "salary_grade": 22
+  },
+  {
+   "title": "WARD ASSISTANT",
+   "salary_grade": 7
+  },
+  {
+   "title": "WAREHOUSEMAN III",
+   "salary_grade": 11
+  }
+ ]
+}

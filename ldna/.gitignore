@@ -1,0 +1,12 @@
+# dependencies and local data
+frontend/node_modules/
+backend/data/
+
+# personal data: never commit real photos or real employee records
+mock-portal/photos/*
+!mock-portal/photos/.gitkeep
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/

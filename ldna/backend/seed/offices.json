@@ -1,0 +1,1667 @@
+[
+ {
+  "id": 1,
+  "name": "OMCC",
+  "area": "OMCC",
+  "division_id": 6,
+  "division_prefix": "OMCC",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 2,
+  "name": "MS (OMPS)",
+  "area": "OMPS",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 3,
+  "name": "HOPSS (OAO)",
+  "area": "OAO",
+  "division_id": 1,
+  "division_prefix": "HOPSS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 4,
+  "name": "FS (Budget)",
+  "area": "BUDGET",
+  "division_id": 4,
+  "division_prefix": "FS",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 5,
+  "name": "FS (Cash Operations)",
+  "area": "Cash Operations",
+  "division_id": 4,
+  "division_prefix": "FS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 6,
+  "name": "HOPSS (HRM)",
+  "area": "HRM",
+  "division_id": 1,
+  "division_prefix": "HOPSS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 7,
+  "name": "HOPSS (MM)",
+  "area": "MM",
+  "division_id": 1,
+  "division_prefix": "HOPSS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 8,
+  "name": "HOPSS (Procurement)",
+  "area": "Procurement",
+  "division_id": 1,
+  "division_prefix": "HOPSS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 9,
+  "name": "MS (HIM)",
+  "area": "HIM",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 10,
+  "name": "MS (ND)",
+  "area": "ND",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 11,
+  "name": "HOPSS (EFM)",
+  "area": "EFM",
+  "division_id": 1,
+  "division_prefix": "HOPSS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 12,
+  "name": "NS (OR)",
+  "area": "OR",
+  "division_id": 3,
+  "division_prefix": "NS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 13,
+  "name": "FS (OFO)",
+  "area": "OFO",
+  "division_id": 4,
+  "division_prefix": "FS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 14,
+  "name": "MS (ACL)",
+  "area": "ACL",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 15,
+  "name": "MS (AI)",
+  "area": "AI",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 16,
+  "name": "MS (BB)",
+  "area": "BB",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 17,
+  "name": "MS (Clinical)",
+  "area": "Clinical",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 18,
+  "name": "MS (Radiology)",
+  "area": "Radiology",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 19,
+  "name": "NS (Obstetric)",
+  "area": "Obstetric",
+  "division_id": 3,
+  "division_prefix": "NS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 20,
+  "name": "NS (OCN)",
+  "area": "OCN",
+  "division_id": 3,
+  "division_prefix": "NS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 21,
+  "name": "FS (Accounting)",
+  "area": "ACCOUNTING",
+  "division_id": 4,
+  "division_prefix": "FS",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 22,
+  "name": "HOPSS (Budget)",
+  "area": "Budget",
+  "division_id": 1,
+  "division_prefix": "HOPSS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 23,
+  "name": "MS (Pharmacy)",
+  "area": "Pharmacy",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 24,
+  "name": "FS (Billing)",
+  "area": "BILLING",
+  "division_id": 4,
+  "division_prefix": "FS",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 25,
+  "name": "HOPSS (Admitting/Info)",
+  "area": "Admitting/Info",
+  "division_id": 1,
+  "division_prefix": "HOPSS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 26,
+  "name": "HOPSS (Billing & Claims)",
+  "area": "Billing & Claims",
+  "division_id": 1,
+  "division_prefix": "HOPSS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 27,
+  "name": "MS (Admitting/Info)",
+  "area": "Admitting/Info",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 28,
+  "name": "MS (Admitting)",
+  "area": "Admitting",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 29,
+  "name": "HOPSS (Billing)",
+  "area": "Billing",
+  "division_id": 1,
+  "division_prefix": "HOPSS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 30,
+  "name": "MS (HIM Staff)",
+  "area": "HIM Staff",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 31,
+  "name": "HOPSS",
+  "area": "HOPSS",
+  "division_id": 1,
+  "division_prefix": "HOPSS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 32,
+  "name": "OMCC (IHOMP)",
+  "area": "IHOMP",
+  "division_id": 6,
+  "division_prefix": "OMCC",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 33,
+  "name": "MS",
+  "area": "MS",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 34,
+  "name": "HOPSS (Accounting)",
+  "area": "Accounting",
+  "division_id": 1,
+  "division_prefix": "HOPSS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 35,
+  "name": "OMCC (OFO)",
+  "area": "OFO",
+  "division_id": 6,
+  "division_prefix": "OMCC",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 36,
+  "name": "MS (OPD)",
+  "area": "OPD",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 37,
+  "name": "MS (PHU)",
+  "area": "PHU",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 38,
+  "name": "MS (Dermatology)",
+  "area": "DERMATOLOGY",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 39,
+  "name": "MS (Internal Medicine)",
+  "area": "Internal Medicine",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 40,
+  "name": "MS (Pathology & Lab)",
+  "area": "Pathology & Lab",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 41,
+  "name": "MS (Radiology Science)",
+  "area": "Radiology Science",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 42,
+  "name": "MS (Surgery)",
+  "area": "Surgery",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 43,
+  "name": "MS (DRRM)",
+  "area": "DRRM",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 44,
+  "name": "MS (EMD)",
+  "area": "EMD",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 45,
+  "name": "MS (Pathology)",
+  "area": "Pathology",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 46,
+  "name": "MS (Eye Center)",
+  "area": "Eye Center",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 47,
+  "name": "MS (Pedia)",
+  "area": "Pedia",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 48,
+  "name": "MS (ENT)",
+  "area": "ENT",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 49,
+  "name": "OMCC (PETRO)",
+  "area": "PETRO",
+  "division_id": 6,
+  "division_prefix": "OMCC",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 50,
+  "name": "MS (CC)",
+  "area": "CC",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 51,
+  "name": "NS (BC)",
+  "area": "BC",
+  "division_id": 3,
+  "division_prefix": "NS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 52,
+  "name": "NS (DR)",
+  "area": "DR",
+  "division_id": 3,
+  "division_prefix": "NS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 53,
+  "name": "NS (OB Complex)",
+  "area": "OB Complex",
+  "division_id": 3,
+  "division_prefix": "NS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 54,
+  "name": "NS (Delivery Complex)",
+  "area": "Delivery Complex",
+  "division_id": 3,
+  "division_prefix": "NS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 55,
+  "name": "NS (OB/DR/LR)",
+  "area": "OB/DR/LR",
+  "division_id": 3,
+  "division_prefix": "NS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 56,
+  "name": "NS (OR/DR)",
+  "area": "OR/DR",
+  "division_id": 3,
+  "division_prefix": "NS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 57,
+  "name": "NS (OB/PACU)",
+  "area": "OB/PACU",
+  "division_id": 3,
+  "division_prefix": "NS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 58,
+  "name": "NS (CNU)",
+  "area": "CNU",
+  "division_id": 3,
+  "division_prefix": "NS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 59,
+  "name": "NS (DR/OR Complex)",
+  "area": "DR/OR Complex",
+  "division_id": 3,
+  "division_prefix": "NS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 60,
+  "name": "NS (OPD)",
+  "area": "OPD",
+  "division_id": 3,
+  "division_prefix": "NS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 61,
+  "name": "NS (BB)",
+  "area": "BB",
+  "division_id": 3,
+  "division_prefix": "NS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 62,
+  "name": "NS (CSS)",
+  "area": "CSS",
+  "division_id": 3,
+  "division_prefix": "NS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 63,
+  "name": "NS (EMD)",
+  "area": "EMD",
+  "division_id": 3,
+  "division_prefix": "NS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 64,
+  "name": "NS (GICU)",
+  "area": "GICU",
+  "division_id": 3,
+  "division_prefix": "NS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 65,
+  "name": "NS (NICU)",
+  "area": "NICU",
+  "division_id": 3,
+  "division_prefix": "NS",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 66,
+  "name": "NS (Ward)",
+  "area": "Ward",
+  "division_id": 3,
+  "division_prefix": "NS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 67,
+  "name": "NS (PACU)",
+  "area": "PACU",
+  "division_id": 3,
+  "division_prefix": "NS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 68,
+  "name": "PETRO",
+  "area": "PETRO",
+  "division_id": 1,
+  "division_prefix": "PETRO",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 69,
+  "name": "NS (SCA)",
+  "area": "SCA",
+  "division_id": 3,
+  "division_prefix": "NS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 70,
+  "name": "MS (Outpatient)",
+  "area": "Outpatient",
+  "division_id": 2,
+  "division_prefix": "MS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 71,
+  "name": "NS",
+  "area": "NS",
+  "division_id": 3,
+  "division_prefix": "NS",
+  "portal_code": null,
+  "source": "map-2023"
+ },
+ {
+  "id": 72,
+  "name": "AHPS (ADMITTING / INFORMATION)",
+  "area": "ADMITTING / INFORMATION",
+  "division_id": 5,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 73,
+  "name": "AHPS (CHIEF HEALTH PROGRAM OFFICE)",
+  "area": "CHIEF HEALTH PROGRAM OFFICE",
+  "division_id": 5,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 74,
+  "name": "AHPS (HEALTH INFORMATION MANAGEMENT SYSTEM (MEDICAL RECORDS))",
+  "area": "HEALTH INFORMATION MANAGEMENT SYSTEM (MEDICAL RECORDS)",
+  "division_id": 5,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 75,
+  "name": "AHPS (MEDICAL EQUIPMENT)",
+  "area": "MEDICAL EQUIPMENT",
+  "division_id": 5,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 76,
+  "name": "AHPS (MEDICAL SOCIAL SERVICE)",
+  "area": "MEDICAL SOCIAL SERVICE",
+  "division_id": 5,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 77,
+  "name": "AHPS (NUTRITION AND DIETETICS DEPARTMENT)",
+  "area": "NUTRITION AND DIETETICS DEPARTMENT",
+  "division_id": 5,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 78,
+  "name": "AHPS (PHARMACY SECTION)",
+  "area": "PHARMACY SECTION",
+  "division_id": 5,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 79,
+  "name": "AHPS (REGISTRATION)",
+  "area": "REGISTRATION",
+  "division_id": 5,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 80,
+  "name": "FS (CASH OPERATION SECTION)",
+  "area": "CASH OPERATION SECTION",
+  "division_id": 4,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 81,
+  "name": "FS (CLAIMS)",
+  "area": "CLAIMS",
+  "division_id": 4,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 82,
+  "name": "HOPSS (CHIEF ADMINISTRATIVE OFFICE)",
+  "area": "CHIEF ADMINISTRATIVE OFFICE",
+  "division_id": 1,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 83,
+  "name": "HOPSS (COMMISSION ON AUDIT)",
+  "area": "COMMISSION ON AUDIT",
+  "division_id": 1,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 84,
+  "name": "HOPSS (ENGINEERING-BUILDING MAINTENANCE)",
+  "area": "ENGINEERING-BUILDING MAINTENANCE",
+  "division_id": 1,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 85,
+  "name": "HOPSS (ENGINEERING-INDUSTRIAL)",
+  "area": "ENGINEERING-INDUSTRIAL",
+  "division_id": 1,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 86,
+  "name": "HOPSS (ENGINEERING-INFRASTRUCTURE)",
+  "area": "ENGINEERING-INFRASTRUCTURE",
+  "division_id": 1,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 87,
+  "name": "HOPSS (ENGINEERING-OXYGEN GENERATION PLANT)",
+  "area": "ENGINEERING-OXYGEN GENERATION PLANT",
+  "division_id": 1,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 88,
+  "name": "HOPSS (HOUSEKEEPING OFFICE)",
+  "area": "HOUSEKEEPING OFFICE",
+  "division_id": 1,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 89,
+  "name": "HOPSS (HOUSEKEEPING OFFICE- BINLOC)",
+  "area": "HOUSEKEEPING OFFICE- BINLOC",
+  "division_id": 1,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 90,
+  "name": "HOPSS (HUMAN RESOURCE MANAGEMENT OFFICE)",
+  "area": "HUMAN RESOURCE MANAGEMENT OFFICE",
+  "division_id": 1,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 91,
+  "name": "HOPSS (INTEGRATED PROCUREMENT AND AWARDS DEPARTMENT)",
+  "area": "INTEGRATED PROCUREMENT AND AWARDS DEPARTMENT",
+  "division_id": 1,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 92,
+  "name": "HOPSS (LAUNDRY AND LINEN)",
+  "area": "LAUNDRY AND LINEN",
+  "division_id": 1,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 93,
+  "name": "HOPSS (MANAGEMENT INFORMATION SERVICES)",
+  "area": "MANAGEMENT INFORMATION SERVICES",
+  "division_id": 1,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 94,
+  "name": "HOPSS (MATERIALS MANAGEMENT)",
+  "area": "MATERIALS MANAGEMENT",
+  "division_id": 1,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 95,
+  "name": "HOPSS (MEDIA AFFAIRS AND PUBLISHING UNIT)",
+  "area": "MEDIA AFFAIRS AND PUBLISHING UNIT",
+  "division_id": 1,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 96,
+  "name": "HOPSS (SECURITY OFFICE)",
+  "area": "SECURITY OFFICE",
+  "division_id": 1,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 97,
+  "name": "HOPSS (TRANSPORT AND VEHICLE MAINTENANCE)",
+  "area": "TRANSPORT AND VEHICLE MAINTENANCE",
+  "division_id": 1,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 98,
+  "name": "MS (ANATOMICAL LABORATORY)",
+  "area": "ANATOMICAL LABORATORY",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 99,
+  "name": "MS (ANESTHESIA DEPARTMENT)",
+  "area": "ANESTHESIA DEPARTMENT",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 100,
+  "name": "MS (CANCER CENTER-RADIATION ONCOLOGY)",
+  "area": "CANCER CENTER-RADIATION ONCOLOGY",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 101,
+  "name": "MS (CHIEF OF CLINICS)",
+  "area": "CHIEF OF CLINICS",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 102,
+  "name": "MS (CHIEF OF MEDICAL PROFESSIONAL STAFF)",
+  "area": "CHIEF OF MEDICAL PROFESSIONAL STAFF",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 103,
+  "name": "MS (CLINICAL LABORATORY)",
+  "area": "CLINICAL LABORATORY",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 104,
+  "name": "MS (DENTAL CLINIC)",
+  "area": "DENTAL CLINIC",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 105,
+  "name": "MS (DEPARTMENT OF MENTAL HEALTH)",
+  "area": "DEPARTMENT OF MENTAL HEALTH",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 106,
+  "name": "MS (DEPLOYED)",
+  "area": "DEPLOYED",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 107,
+  "name": "MS (DRUG TESTING LABORATORY)",
+  "area": "DRUG TESTING LABORATORY",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 108,
+  "name": "MS (EMERGENCY MEDICINE DEPARTMENT & HEALTH EMERGENCY MANAGEMENT STAFF)",
+  "area": "EMERGENCY MEDICINE DEPARTMENT & HEALTH EMERGENCY MANAGEMENT STAFF",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 109,
+  "name": "MS (ENT CLINIC)",
+  "area": "ENT CLINIC",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 110,
+  "name": "MS (EPILEPSY MONITORING UNIT)",
+  "area": "EPILEPSY MONITORING UNIT",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 111,
+  "name": "MS (FAMILY AND COMMUNITY MEDICINE)",
+  "area": "FAMILY AND COMMUNITY MEDICINE",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 112,
+  "name": "MS (INTERNAL MEDICINE DEPARTMENT)",
+  "area": "INTERNAL MEDICINE DEPARTMENT",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 113,
+  "name": "MS (LATERAL ENTRY)",
+  "area": "LATERAL ENTRY",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 114,
+  "name": "MS (MOLECULAR BIOLOGY LABORATORY)",
+  "area": "MOLECULAR BIOLOGY LABORATORY",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 115,
+  "name": "MS (NVBSP / BLOOD BANK)",
+  "area": "NVBSP / BLOOD BANK",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 116,
+  "name": "MS (OB-GYNE DEPARTMENT)",
+  "area": "OB-GYNE DEPARTMENT",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 117,
+  "name": "MS (OPHTHALMOLOGY CLINIC)",
+  "area": "OPHTHALMOLOGY CLINIC",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 118,
+  "name": "MS (ORTHOPEDICS CLINIC)",
+  "area": "ORTHOPEDICS CLINIC",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 119,
+  "name": "MS (OUTPATIENT DEPARTMENT)",
+  "area": "OUTPATIENT DEPARTMENT",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 120,
+  "name": "MS (PATHOLOGY DEPARTMENT)",
+  "area": "PATHOLOGY DEPARTMENT",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 121,
+  "name": "MS (PEDIATRICS DEPARTMENT)",
+  "area": "PEDIATRICS DEPARTMENT",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 122,
+  "name": "MS (PHYSICAL MEDICINE AND REHABILITATION)",
+  "area": "PHYSICAL MEDICINE AND REHABILITATION",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 123,
+  "name": "MS (PINAS)",
+  "area": "PINAS",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 124,
+  "name": "MS (PULMONARY / RESPIRATORY UNIT)",
+  "area": "PULMONARY / RESPIRATORY UNIT",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 125,
+  "name": "MS (RADIOLOGY DEPARTMENT)",
+  "area": "RADIOLOGY DEPARTMENT",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 126,
+  "name": "MS (SURGERY DEPARTMENT)",
+  "area": "SURGERY DEPARTMENT",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 127,
+  "name": "MS (TOXICOLOGY UNIT)",
+  "area": "TOXICOLOGY UNIT",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 128,
+  "name": "MS (WOMEN & CHILDREN PROTECTION UNIT)",
+  "area": "WOMEN & CHILDREN PROTECTION UNIT",
+  "division_id": 2,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 129,
+  "name": "NS (ACUTE STROKE UNIT)",
+  "area": "ACUTE STROKE UNIT",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 130,
+  "name": "NS (ANIMAL BITE TREATMENT CENTER)",
+  "area": "ANIMAL BITE TREATMENT CENTER",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 131,
+  "name": "NS (CANCER CENTER-RADIATION ONCOLOGY)",
+  "area": "CANCER CENTER-RADIATION ONCOLOGY",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 132,
+  "name": "NS (CENTER FOR EMERGING AND REEMERGING DISEASES)",
+  "area": "CENTER FOR EMERGING AND REEMERGING DISEASES",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 133,
+  "name": "NS (CENTRAL SUPPLY & STERILIZATION)",
+  "area": "CENTRAL SUPPLY & STERILIZATION",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 134,
+  "name": "NS (CHIEF NURSE OFFICE)",
+  "area": "CHIEF NURSE OFFICE",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 135,
+  "name": "NS (COMMUNITY)",
+  "area": "COMMUNITY",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 136,
+  "name": "NS (DELIVERY ROOM)",
+  "area": "DELIVERY ROOM",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 137,
+  "name": "NS (DEPARTMENT OF MENTAL HEALTH)",
+  "area": "DEPARTMENT OF MENTAL HEALTH",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 138,
+  "name": "NS (DERMATOLOGY)",
+  "area": "DERMATOLOGY",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 139,
+  "name": "NS (DIABETES CLINIC)",
+  "area": "DIABETES CLINIC",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 140,
+  "name": "NS (DOTS CLINIC)",
+  "area": "DOTS CLINIC",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 141,
+  "name": "NS (EMERGENCY MEDICINE DEPARTMENT & HEALTH EMERGENCY MANAGEMENT STAFF)",
+  "area": "EMERGENCY MEDICINE DEPARTMENT & HEALTH EMERGENCY MANAGEMENT STAFF",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 142,
+  "name": "NS (EMERGENCY SHORT STAY WARD)",
+  "area": "EMERGENCY SHORT STAY WARD",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 143,
+  "name": "NS (ENT CLINIC)",
+  "area": "ENT CLINIC",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 144,
+  "name": "NS (EPILEPSY MONITORING UNIT)",
+  "area": "EPILEPSY MONITORING UNIT",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 145,
+  "name": "NS (FAMILY AND COMMUNITY MEDICINE)",
+  "area": "FAMILY AND COMMUNITY MEDICINE",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 146,
+  "name": "NS (FAMILY PLANNING CLINIC)",
+  "area": "FAMILY PLANNING CLINIC",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 147,
+  "name": "NS (GERIATRIC CLINIC)",
+  "area": "GERIATRIC CLINIC",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 148,
+  "name": "NS (HEART STATION)",
+  "area": "HEART STATION",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 149,
+  "name": "NS (HEMODIALYSIS UNIT)",
+  "area": "HEMODIALYSIS UNIT",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 150,
+  "name": "NS (ICU-CCU)",
+  "area": "ICU-CCU",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 151,
+  "name": "NS (MEDICAL CLINIC)",
+  "area": "MEDICAL CLINIC",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 152,
+  "name": "NS (MEDICAL WARD)",
+  "area": "MEDICAL WARD",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 153,
+  "name": "NS (MICU)",
+  "area": "MICU",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 154,
+  "name": "NS (MINOR OR CLINIC)",
+  "area": "MINOR OR CLINIC",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 155,
+  "name": "NS (OB-GYN ULTRASOUND UNIT)",
+  "area": "OB-GYN ULTRASOUND UNIT",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 156,
+  "name": "NS (OB-GYNE CLINIC)",
+  "area": "OB-GYNE CLINIC",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 157,
+  "name": "NS (OB-GYNE WARD)",
+  "area": "OB-GYNE WARD",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 158,
+  "name": "NS (OPERATING ROOM)",
+  "area": "OPERATING ROOM",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 159,
+  "name": "NS (OPHTHALMOLOGY CLINIC)",
+  "area": "OPHTHALMOLOGY CLINIC",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 160,
+  "name": "NS (ORTHOPEDICS CLINIC)",
+  "area": "ORTHOPEDICS CLINIC",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 161,
+  "name": "NS (OUTPATIENT DEPARTMENT)",
+  "area": "OUTPATIENT DEPARTMENT",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 162,
+  "name": "NS (PAY WARD)",
+  "area": "PAY WARD",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 163,
+  "name": "NS (PEDIATRICS CLINIC)",
+  "area": "PEDIATRICS CLINIC",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 164,
+  "name": "NS (PEDIATRICS WARD)",
+  "area": "PEDIATRICS WARD",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 165,
+  "name": "NS (PINAS)",
+  "area": "PINAS",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 166,
+  "name": "NS (RECOVERY ROOM)",
+  "area": "RECOVERY ROOM",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 167,
+  "name": "NS (SPECIALTY CLINIC (SURGERY))",
+  "area": "SPECIALTY CLINIC (SURGERY)",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 168,
+  "name": "NS (SURGERY WARD)",
+  "area": "SURGERY WARD",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 169,
+  "name": "NS (SURGICAL CLINIC)",
+  "area": "SURGICAL CLINIC",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 170,
+  "name": "NS (VETERANS WARD)",
+  "area": "VETERANS WARD",
+  "division_id": 3,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 171,
+  "name": "OCH (CENTER FOR EDUCATION, TRAINING AND RESEARCH)",
+  "area": "CENTER FOR EDUCATION, TRAINING AND RESEARCH",
+  "division_id": 6,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 172,
+  "name": "OCH (COMMAND CENTER)",
+  "area": "COMMAND CENTER",
+  "division_id": 6,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 173,
+  "name": "OCH (CUSTOMER SERVICE REPRESENTATIVE)",
+  "area": "CUSTOMER SERVICE REPRESENTATIVE",
+  "division_id": 6,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 174,
+  "name": "OCH (HEALTH EMERGENCY MANAGEMENT SERVICE)",
+  "area": "HEALTH EMERGENCY MANAGEMENT SERVICE",
+  "division_id": 6,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 175,
+  "name": "OCH (HOSPITAL AS CENTER FOR WELLNESS PROGRAM UNIT)",
+  "area": "HOSPITAL AS CENTER FOR WELLNESS PROGRAM UNIT",
+  "division_id": 6,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 176,
+  "name": "OCH (HOSPITAL EPIDEMIOLOGY CENTER)",
+  "area": "HOSPITAL EPIDEMIOLOGY CENTER",
+  "division_id": 6,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 177,
+  "name": "OCH (HOSPITAL INFECTION PREVENTION & CONTROL MANAGEMENT OFFICE)",
+  "area": "HOSPITAL INFECTION PREVENTION & CONTROL MANAGEMENT OFFICE",
+  "division_id": 6,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 178,
+  "name": "OCH (LEGAL OFFICE)",
+  "area": "LEGAL OFFICE",
+  "division_id": 6,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 179,
+  "name": "OCH (MEDICAL CENTER CHIEF OFFICE)",
+  "area": "MEDICAL CENTER CHIEF OFFICE",
+  "division_id": 6,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 180,
+  "name": "OCH (OCCUPATIONAL PATIENT SAFETY AND HEALTH MANAGEMENT OFFICE)",
+  "area": "OCCUPATIONAL PATIENT SAFETY AND HEALTH MANAGEMENT OFFICE",
+  "division_id": 6,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 181,
+  "name": "OCH (OFFICE OF STRATEGY MANAGEMENT)",
+  "area": "OFFICE OF STRATEGY MANAGEMENT",
+  "division_id": 6,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 182,
+  "name": "OCH (PATIENT ACTION CENTER)",
+  "area": "PATIENT ACTION CENTER",
+  "division_id": 6,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 183,
+  "name": "OCH (PUBLIC HEALTH UNIT)",
+  "area": "PUBLIC HEALTH UNIT",
+  "division_id": 6,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 184,
+  "name": "OCH (QUALITY MANAGEMENT SYSTEM OFFICE)",
+  "area": "QUALITY MANAGEMENT SYSTEM OFFICE",
+  "division_id": 6,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ },
+ {
+  "id": 185,
+  "name": "OCH (SECRETARIAT OFFICE OF THE MEDICAL CENTER CHIEF)",
+  "area": "SECRETARIAT OFFICE OF THE MEDICAL CENTER CHIEF",
+  "division_id": 6,
+  "division_prefix": "",
+  "portal_code": null,
+  "source": "official-2026"
+ }
+]

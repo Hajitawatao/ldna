@@ -1,0 +1,3111 @@
+[
+ {
+  "id": 1,
+  "name": "Exemplifying Integrity",
+  "category": "core",
+  "definition": "Ability to establish and maintain social, ethical and organizational norms within the organization and towards clients in accordance to the Code of Conduct and Ethical Standards for Public Officials and Employees (RA 6713).",
+  "levels": {
+   "1": {
+    "description": "Exhibits an honest behavior",
+    "indicators": [
+     "Demonstrates openness and honesty with clients and others",
+     "Devotes to meet the organization's standards",
+     "Acts professionally at all times, is punctual, reliable, and prompt in delivering services"
+    ],
+    "verification": [
+     "Feedback Reports",
+     "360 (subordinates, peers, supervisors)",
+     "Review"
+    ]
+   },
+   "2": {
+    "description": "Is more critical of behavior’s implications to self, clients, and organization in accordance to RA 6713",
+    "indicators": [
+     "Analyzes own performance truthfully, and offers ideas and gives feedback for improvement",
+     "Is flexible to meet the needs of the organization and clients",
+     "Refuses and/or avoids malicious and unethical situations"
+    ],
+    "verification": [
+     "Feedback Reports",
+     "360 (subordinates, peers, supervisors)",
+     "Review"
+    ]
+   },
+   "3": {
+    "description": "Expects uprightness from the team and/or organization and adherence to RA 6713",
+    "indicators": [
+     "Includes integrity checks in the team’s performance review",
+     "Understands and actively promotes the organization's standards and ethics to colleagues and to others outside the organization",
+     "Monitors self and others to acting in accordance with the organization’s standards and values"
+    ],
+    "verification": [
+     "Evaluation of",
+     "Customer /Client",
+     "Satisfaction Survey form"
+    ]
+   },
+   "4": {
+    "description": "Protects the integrity and image of the organization by adhering to RA 6713",
+    "indicators": [
+     "Upholds at all times the fundamental values of good governance",
+     "Ensures organizational compliance with legislation, regulatory requirements and best practices",
+     "Stands up publicly for beliefs and challenges the unethical behavior of others"
+    ],
+    "verification": [
+     "Memorandum",
+     "Circulars",
+     "Ordinances, Executive",
+     "Orders",
+     "Administrative Orders"
+    ]
+   }
+  }
+ },
+ {
+  "id": 2,
+  "name": "Professionalism",
+  "category": "core",
+  "definition": "Ability to exemplify high standards of professional behavior as a public servant, adhering to ethical as well as moral principles, values and standards of public office.",
+  "levels": {
+   "1": {
+    "description": "Understands duties and sets quality benchmarks for self performance",
+    "indicators": [
+     "Works without supervision, appears confident in person, presents oneself strongly",
+     "Ensures that outputs produced and work performed are within set standards and comply with specifications",
+     "Seeks for instruction or clarification on tasks or work to ensure accurate and timely production of outcome or results",
+     "Seeks guidance from immediate superiors on how to improve performance"
+    ],
+    "verification": [
+     "Feedback Reports",
+     "Accomplishes IPCR, RFA",
+     "Prepared CSS",
+     "Report, Minutes of",
+     "Meetings",
+     "Evaluation of",
+     "Customer /Client",
+     "Satisfaction Survey form"
+    ]
+   },
+   "2": {
+    "description": "Assists team and/or clients to comply to principles, values, and standards",
+    "indicators": [
+     "Demonstrates trustworthiness by protecting sensitive or confidential information, following required procedures",
+     "Monitors own performance and improves it if current status does not match the ideal or agreed expectations",
+     "Provides guidance on operations and technical issues to staff to ensure accurate and timely production of outcome or results",
+     "Manifests positive disposition despite heavy workload, working hours or unusual challenges encountered in the workplace"
+    ],
+    "verification": [
+     "360 (subordinates, peers, supervisors)",
+     "Review",
+     "Prepared CSS",
+     "Report, Minutes of",
+     "Meetings",
+     "Evaluation of",
+     "Customer /Client",
+     "Satisfaction Survey form"
+    ]
+   },
+   "3": {
+    "description": "Analyzes self and endorses ways to colleagues to attain and/or surpass quality standards",
+    "indicators": [
+     "Takes action to improve own abilities in line with career goals, including volunteering for “stretch” assignments and taking on additional responsibilities",
+     "Encourages others to maintain a positive attitude towards work, meeting tight deadlines and the needs of demanding clients"
+    ],
+    "verification": [
+     "360 (subordinates, peers, supervisors)",
+     "Review",
+     "Prepares CSS"
+    ]
+   },
+   "4": {
+    "description": "Promotes the achievement of work standards to the whole organization",
+    "indicators": [
+     "Creates, develops and ensures that feedback procedures are in place and working effectively to ensure accurate and timely monitoring of performance",
+     "Inspires others to act at the highest level of honesty and integrity",
+     "Identifies and differentiates ethical and moral principles and values from inappropriate, unethical or dishonest behaviors"
+    ],
+    "verification": [
+     "Memorandum",
+     "Circulars",
+     "Ordinances, Executive Orders",
+     "Administrative",
+     "Orders"
+    ]
+   }
+  }
+ },
+ {
+  "id": 3,
+  "name": "Service Excellence",
+  "category": "core",
+  "definition": "Ability to recognize and create opportunities to meet and exceed the needs and expectations of both internal and external clients of the organization.",
+  "levels": {
+   "1": {
+    "description": "Respects clients",
+    "indicators": [
+     "Demonstrates courtesy and professional attitude when responding to clients’ inquiries or concerns",
+     "Knows basic procedure in addressing clients’ complaints"
+    ],
+    "verification": [
+     "Feedback Reports",
+     "360 (subordinates, peers, supervisors)",
+     "Review"
+    ]
+   },
+   "2": {
+    "description": "Exerts effort in understanding the need of the clients",
+    "indicators": [
+     "Makes him/herself available to the clients to provide accurate and timely information",
+     "Effectively uses diplomacy when addressing clients’ complaints",
+     "Listens to the clients and provides feedback"
+    ],
+    "verification": [
+     "Evaluation of",
+     "Customer /Client",
+     "Satisfaction Survey form",
+     "Activity Reports"
+    ]
+   },
+   "3": {
+    "description": "Finds solutions to clients’ problems",
+    "indicators": [
+     "Understands the clients’ point of view, and has thorough knowledge of their behavior and anticipates their needs",
+     "Offers appropriate and innovative solutions to clients’ issues and concerns"
+    ],
+    "verification": [
+     "Evaluation of",
+     "Customer /Client",
+     "Satisfaction Survey form",
+     "Recommendation for innovative customer service"
+    ]
+   },
+   "4": {
+    "description": "Prioritizes the benefit of the clients",
+    "indicators": [
+     "Actively supports the interests of the clients when faced with multiple/various requests/concerns by making choices and setting priorities to meet their needs",
+     "Influences a culture of service to individual and team by modeling behavior that is client-centered and initiating structure to ensure excellent service to clients"
+    ],
+    "verification": [
+     "Memorandum",
+     "Circulars",
+     "Ordinances, Executive",
+     "Orders",
+     "Administrative Orders"
+    ]
+   }
+  }
+ },
+ {
+  "id": 4,
+  "name": "Effective Communication Skills",
+  "category": "organizational",
+  "definition": "Ability to receive and convey ideas, instructions, information by using appropriate language, method and manner to ensure the audience understands the message and takes necessary action.",
+  "levels": {
+   "1": {
+    "description": "Communicates simply and understandably",
+    "indicators": [
+     "Communicates in a way that is accurate, timely and easy to understand regardless of medium",
+     "Shares information in an open and honest way"
+    ],
+    "verification": [
+     "Feedback Reports",
+     "360 (subordinates, peers, supervisors)",
+     "Review"
+    ]
+   },
+   "2": {
+    "description": "Understands the context and background of the communication",
+    "indicators": [
+     "Probes to understand unexpressed or poorly expressed thoughts, concerns or feelings",
+     "Reads body language and other non-verbal cues accurately and uses that understanding to structure and give appropriate responses",
+     "Provides adequate, accurate and relevant information to clients within and outside the organization"
+    ],
+    "verification": [
+     "Feedback Reports",
+     "360 (subordinates, peers, supervisors)",
+     "Review",
+     "Records of staff meeting"
+    ]
+   },
+   "3": {
+    "description": "Appropriates language and level of communication to clients",
+    "indicators": [
+     "Demonstrates the ability to express complex concepts, thoughts and ideas clearly and concisely for the understanding of all audiences",
+     "Tailors communication to intended audience and uses appropriate tools and strategies to convey information",
+     "Paraphrases information to check understanding before drawing conclusions"
+    ],
+    "verification": [
+     "Letters and Memos",
+     "Email messages"
+    ]
+   },
+   "4": {
+    "description": "Strategically communicates to clients",
+    "indicators": [
+     "Responds to people’s concerns in a manner that promotes longer-term solutions",
+     "Seeks to understand others’ frame of reference",
+     "Maximizes use of different means of communication to get across various clients/ recipients with diverse needs"
+    ],
+    "verification": [
+     "Minutes of",
+     "Meeting",
+     "Attendance Sheets",
+     "Social Media account"
+    ]
+   }
+  }
+ },
+ {
+  "id": 5,
+  "name": "Effective Interpersonal Skills",
+  "category": "organizational",
+  "definition": "Ability to develop and maintain effective relationships with others; notices and accurately interprets what others are feeling; shows understanding, tact, empathy, courtesy, concern and politeness.",
+  "levels": {
+   "1": {
+    "description": "Maintains good relationships within and ouside the organization",
+    "indicators": [
+     "Relates to people in an open, friendly and professional manner",
+     "Demonstrates an ability to meet and socialize with people at all levels",
+     "Maintains cooperative work relationships within the organization by building trust and respect",
+     "Makes a conscious effort to have informal or casual contacts with clients, staff and colleagues"
+    ],
+    "verification": [
+     "Activity Reports",
+     "360 (subordinates, peers, supervisors)",
+     "Review"
+    ]
+   },
+   "2": {
+    "description": "Engages others and manages others’ feelings",
+    "indicators": [
+     "Cooperates and works to gain support and commitment from others when performing tasks",
+     "Recognizes and manages difficult relationships",
+     "Demonstrates an ability to understand and interpret individuals’ concerns, motives and feelings, and recognizes strengths and limitations of others",
+     "Promotes commitment and loyalty among people in the organization",
+     "Accepts and evaluates feedback of associates and clients"
+    ],
+    "verification": [
+     "Prepared CSS Report",
+     "Minutes of Meetings",
+     "Activity Reports",
+     "360 (subordinates, peers, supervisors)",
+     "Review"
+    ]
+   },
+   "3": {
+    "description": "Takes criticisms constructively",
+    "indicators": [
+     "Develops relationships with the intent of achieving effective delivery of relevant services",
+     "Solicits feedback from peers and subordinates to evaluate work actions and decisions and strives to change if necessary",
+     "Demonstrates diplomacy by approaching others about sensitive issues in a nonthreatening way"
+    ],
+    "verification": [
+     "Records of Staff meeting",
+     "360 (subordinates, peers, supervisors)",
+     "Review"
+    ]
+   },
+   "4": {
+    "description": "Promotes good working relationship",
+    "indicators": [
+     "Fosters an environment conducive to open, transparent communication among all levels",
+     "Shows warmth and empathy for others and their situation while stating opinions in value-free language and treating all fairly",
+     "Manages difficult and complex interpersonal relationships effectively",
+     "Manages disagreements with others in ways that preserve working relationships"
+    ],
+    "verification": [
+     "Minutes of Meetings",
+     "360 (subordinates, peers, supervisors) Review",
+     "Administrative Orders"
+    ]
+   }
+  }
+ },
+ {
+  "id": 6,
+  "name": "Organizational Awareness and Commitment",
+  "category": "organizational",
+  "definition": "Ability to gain knowledge of DOH culture, systems, and pressures; understands the agenda and perspectives of others; recognizes and balances the interests of one’s department with those of other departments and the Agency, as well as the impact of decisions on each.",
+  "levels": {
+   "1": {
+    "description": "Adheres to organization’s vision, mission, and rules",
+    "indicators": [
+     "Understands DOH’s vision, mission, and core function in the government system",
+     "Monitors work to ensure it aligns with formal procedures and the organization’s accountabilities",
+     "Recognizes and uses formal structure, rules, processes, methods or operations to accomplish work"
+    ],
+    "verification": [
+     "Activity Reports",
+     "IPCR"
+    ]
+   },
+   "2": {
+    "description": "Endeavors for the realization of the organization’s goals",
+    "indicators": [
+     "Assesses views of clients on key issues; positions timing of recommendations to ensure greater likelihood of success",
+     "Uses informal structures; can identify decision makers and influencers",
+     "Effectively uses both formal and informal channels or networks for acquiring information, assistance and accomplishing work goals"
+    ],
+    "verification": [
+     "Activity Reports",
+     "IPCR",
+     "360 (subordinates, peers, supervisors) Review"
+    ]
+   },
+   "3": {
+    "description": "Adjusts and adapts to clients, contexts, and needs of changing time",
+    "indicators": [
+     "Analyzes the organization and one’s own area to identify key relationships that should be initiated or improved to enhance the attainment of goals",
+     "Achieves solutions acceptable to varied parties based on understanding of issues, climates and cultures in one’s own organization and other organizations",
+     "Accurately describes the issues and culture of external clients; uses this information to achieve goals and initiatives",
+     "Supports the changing culture and methods of operating, if necessary, for the success of DOH"
+    ],
+    "verification": [
+     "IPCR",
+     "Minutes of meetings",
+     "Orientation on VMG, duties and responsibilities conducted for staff"
+    ]
+   },
+   "4": {
+    "description": "Understands the power relations within and outside the organization",
+    "indicators": [
+     "Appropriately anticipates the political consequence of actions; considers the political environment when presenting ideas and taking actions; knows when to get input and build consensus",
+     "Demonstrates broad understanding of social and economic context within which DOH operates",
+     "Understands and anticipates potential trend of the political environment and the impact this may have to the organization"
+    ],
+    "verification": [
+     "Minutes of meetings",
+     "Attendance sheets involving partners",
+     "Memorandum of Agreement",
+     "Strategic Plans"
+    ]
+   }
+  }
+ },
+ {
+  "id": 7,
+  "name": "Promoting Innovation",
+  "category": "organizational",
+  "definition": "Ability to develop new and creative insights into situations, and applies different and novel solutions to make improvements and/or adaptations to available resources.",
+  "levels": {
+   "1": {
+    "description": "Follows innovative practices",
+    "indicators": [
+     "Supports ideas and concepts for new ways of doing things",
+     "Seeks continuous improvement on organization’s processes and procedures"
+    ],
+    "verification": [
+     "Activity Reports"
+    ]
+   },
+   "2": {
+    "description": "Thinks out-of-thebox",
+    "indicators": [
+     "Recognizes opportunities to use new or unusual ideas",
+     "Suggests novel solutions to operational problems"
+    ],
+    "verification": [
+     "Activity Reports",
+     "Plan of Action"
+    ]
+   },
+   "3": {
+    "description": "Establishes innovative practices in the organization",
+    "indicators": [
+     "Suggests new ways to apply existing knowledge",
+     "Develops creative improvements on organization’s processes and procedures"
+    ],
+    "verification": [
+     "Project proposal on innovative measures",
+     "Plan of Action"
+    ]
+   },
+   "4": {
+    "description": "Provides innovative direction and plans for the organization",
+    "indicators": [
+     "Looks beyond tried-and-tested methods of solving problems",
+     "Orders implementation of creative and novel system/process/solutions"
+    ],
+    "verification": [
+     "Administrative Orders",
+     "Strategic Plans"
+    ]
+   }
+  }
+ },
+ {
+  "id": 8,
+  "name": "Building Collaborative and Inclusive Working Relationship",
+  "category": "leadership",
+  "definition": "Ability to build a network of reciprocal, high trust, synergetic working relationship within the organization and across the government and relevant sectors. This involves the ability to leverage and maximize opportunities for strategic influencing within the organization and with external clients.",
+  "levels": {
+   "1": {
+    "description": "Maximizes existing partnerships and networks, and capitalizes on these to deliver or enhance work outcomes",
+    "indicators": [
+     "Seeks information from others (e.g., colleagues, clients, program partners, other government agencies, etc.)",
+     "Maintains personal contact with those who can provide work-related information within the organization",
+     "Builds partnerships and networks to deliver or enhance work outcomes"
+    ],
+    "verification": [
+     "Advocacy letters",
+     "Travel orders",
+     "Invitation letters from stakeholders",
+     "List of Committees created for health programs"
+    ]
+   },
+   "2": {
+    "description": "Builds partnerships and networks to deliver or enhance work outcomes",
+    "indicators": [
+     "Strengthens and deepens partnerships and networks to deliver or enhance work outcomes",
+     "Seeks out the expertise of others and develops links with experts and information sources",
+     "Develops and nurtures key contacts as source of information",
+     "Participates in networking and social events internal and external to the organization"
+    ],
+    "verification": [
+     "Advocacy letters",
+     "Travel orders",
+     "Invitation letters from stakeholders",
+     "List of Committees created for health programs",
+     "Policies on creation of committees",
+     "Minutes of meetings",
+     "Attendance Sheets involving partners"
+    ]
+   },
+   "3": {
+    "description": "Strengthens and",
+    "indicators": [
+     "Builds and then leverages on collaborative partnerships and networks to deliver"
+    ],
+    "verification": [
+     "List of committees"
+    ]
+   },
+   "4": {
+    "description": "Explores new partnerships and networks to deliver or enhance work outcomes",
+    "indicators": [
+     "Builds and then leverages on collaborative partnerships and networks to deliver or enhance work outcomes",
+     "Builds network with parties that can contribute to the achievement of DOH’s organizational strategies",
+     "Identifies areas that can build strategic alliances",
+     "Creates and facilitates forum to develop new alliances and formal networks",
+     "Uses knowledge of formal and informal structure and the culture to advance",
+     "DOH’s strategic objectives"
+    ],
+    "verification": [
+     "List of committees created for health programs",
+     "Policies on creation of committees",
+     "Minutes of meetings",
+     "Attendance sheets involving partners",
+     "Memorandum of",
+     "Agreement",
+     "Service Provider",
+     "Agreement",
+     "Social Media account"
+    ]
+   }
+  }
+ },
+ {
+  "id": 9,
+  "name": "Leading Change",
+  "category": "leadership",
+  "definition": "Ability to generate genuine enthusiasm and momentum for organizational change. It involves engaging and enabling groups to understand, accept and commit to the change agenda. It also includes advancing and sustaining change.",
+  "levels": {
+   "1": {
+    "description": "Responds effectively to the need or reason for change and participates in the activities or initiatives inherent to it",
+    "indicators": [
+     "Implements plans and activities related to change initiative affecting one’s functional area or expertise and motivates employees’ commitment to accept the change",
+     "Identifies the current situation including dangers, opportunity forces and cultural elements supportive and resistant to change",
+     "Publicly defines specific area where change is needed, but does not describe what those changes should be",
+     "Understands that change is a necessary requirement for the organization to remain competitive"
+    ],
+    "verification": [
+     "Activity Reports",
+     "Minutes of",
+     "Meetings",
+     "Attendance Sheet",
+     "IPCR"
+    ]
+   },
+   "2": {
+    "description": "Implements plans or activities related to a change initiative affecting one’s functional area or expertise",
+    "indicators": [
+     "Constructs a change management plan in which one or more office systems and/or processes are affected either by change intervention conducted internally or by a third party consultant",
+     "Determines and applies appropriate strategies for dealing with resistance to change",
+     "Utilizes basic conflict resolution concepts and techniques for minimizing the negative effects of conflict",
+     "Provides feedback to subordinates on how change is being implemented and gives feedback to DOH Leadership as to how change is being accepted"
+    ],
+    "verification": [
+     "Minutes of",
+     "Meeting",
+     "Attendance Sheet",
+     "Plan of Action",
+     "Advisories",
+     "Certificate of",
+     "Compliance"
+    ]
+   },
+   "3": {
+    "description": "Spearheads the implementation of the planned change",
+    "indicators": [
+     "Constructs a change management plan in which one or more office systems and/or processes are affected either by change intervention conducted internally or by a third party consultant",
+     "Defines an explicit vision for change",
+     "Addresses employee concerns about change",
+     "Takes efforts to deliver the message or vision for change to everyone affected"
+    ],
+    "verification": [
+     "Certificate of",
+     "Compliance",
+     "Plan of Action",
+     "Memorandum",
+     "Circulars"
+    ]
+   },
+   "4": {
+    "description": "Supports institutional change by being an example",
+    "indicators": [
+     "Plans, defines, and exhibits buy-in and full support for the change management plan to succeed agency-wide to improve organizational effectiveness",
+     "Creates a sense of urgency around change and motivates employees to join change efforts",
+     "Demonstrates willingness to take calculated risks in trying unconventional approaches",
+     "Identifies broad operational implications of change (e.g. roles, responsibilities and work processes) before changes are put in place",
+     "Presents strong reasons for change to line management so they can in turn communicate it to all employees in the organization"
+    ],
+    "verification": [
+     "Memorandum",
+     "Circulars",
+     "Ordinances",
+     "Executive Orders",
+     "Administrative",
+     "Orders"
+    ]
+   }
+  }
+ },
+ {
+  "id": 10,
+  "name": "Managing Performance and Coaching for Results",
+  "category": "leadership",
+  "definition": "Ability to create an enabling environment, which will nurture and sustain a performance-based coaching culture. Effectiveness of this competency also includes strong focus on developing people for current and future needs, managing talent, promoting the value of continuous learning and development.",
+  "levels": {
+   "1": {
+    "description": "Initiates setting up of performance expectations, assessment methods, and career planning mechanisms",
+    "indicators": [
+     "Creates tools and/or applies new methods in correcting and improving below standard or non-compliant performance of individuals or groups, using knowledge and skills in coaching to enable them to initiate solutions for their growth and development",
+     "Has a basic understanding of performance setting and assessment methods that are used to evaluate and measure an employee’s performance against standard performance criteria and to document the results of the assessment",
+     "Awareness of basic individual career planning, career pathing, target-/goals-setting and succession planning",
+     "Recognizes employees’ ability to change"
+    ],
+    "verification": [
+     "Accomplishes IPCR, RFA",
+     "Prepares CSS",
+     "Report",
+     "Minutes of",
+     "Meetings",
+     "Evaluation of",
+     "Customer /Client",
+     "Satisfaction",
+     "Survey form"
+    ]
+   },
+   "2": {
+    "description": "Applies the appropriate action using available tools to ensure that performance matches standards",
+    "indicators": [
+     "Monitors the strategic imperative of the organization and orchestrates teams, work, and organizational culture around this through advanced skills in coaching to achieve performance goals",
+     "Clearly defines goals, objectives, workload standards and performance measurement criteria",
+     "Sets clear, well-defined desired outcomes for work activity and tracks progress",
+     "Objectively assesses an individual’s strengths and areas for development"
+    ],
+    "verification": [
+     "IPCR",
+     "Minutes of meetings",
+     "Customer",
+     "Feedback"
+    ]
+   },
+   "3": {
+    "description": "Monitors staff’s performances objectively",
+    "indicators": [
+     "Leads the organization by example and through coaching towards achievement of public service performance standards",
+     "Tracks employees in meeting their performance objectives",
+     "Provides training opportunities and success reinforcement for employees’ development",
+     "Maintains two-way dialogue with supervisees about work and results",
+     "Plans by determining objectives, priorities, activities and component feasibility, by"
+    ],
+    "verification": [
+     "Accomplished",
+     "OPCR, RFA",
+     "Minutes of",
+     "Management",
+     "Review and related meetings",
+     "PRAISE",
+     "Committee Report"
+    ]
+   },
+   "4": {
+    "description": "Gives staff critical and constructive feedback to remove unwanted behaviors and bridge gaps",
+    "indicators": [
+     "Leads the organization by example and through coaching towards achievement of public service performance standards",
+     "Cites critical incidents to justify assessment and gives specific constructive feedback for developmental purposes",
+     "Coaches by giving assessment feedback and general advice about leveraging strengths and overcoming performance gaps",
+     "Manages employee performance by using various techniques in dealing with or resolving difficult, ambiguous or unwanted behavior, measuring and pinpointing specific behaviors or results that need to be changed and providing feedback to achieve the desired performance"
+    ],
+    "verification": [
+     "OPCR and IPCR results",
+     "Performance",
+     "Evaluation",
+     "Results"
+    ]
+   }
+  }
+ },
+ {
+  "id": 11,
+  "name": "Thinking Strategically and Creatively",
+  "category": "leadership",
+  "definition": "Ability to “see the big picture,” think multi-dimensionally, craft innovative solutions, identify connections between situations or things that are not obviously related, and come up with new ideas and different ways to enhance organizational effectiveness and responsiveness.",
+  "levels": {
+   "1": {
+    "description": "Identifies and places self in the context of the organization",
+    "indicators": [
+     "Creates or defines goals and initiatives based on how one can support, extend, or align to the goals of one’s department or functional area Understands own role in achieving organizational goals",
+     "Understands the organization’s strengths and weaknesses",
+     "Aligns day-to-day actions with organizational issues and opportunities"
+    ],
+    "verification": [
+     "Plan of Action",
+     "IPCR",
+     "Feedback",
+     "Reports"
+    ]
+   },
+   "2": {
+    "description": "Plans purposively for work strategies",
+    "indicators": [
+     "Plans, crafts and adapts strategies for achieving the vision, mission and objectives of the Department and secures the proper implementation of these strategies",
+     "Examines policy issues and strategic planning with a long term perspective",
+     "Determines objectives and set priorities and anticipates potential threats or opportunities",
+     "Changes plans and activities to better address larger organizational strategies"
+    ],
+    "verification": [
+     "Project proposal for innovations",
+     "Priority Program",
+     "Action Plans"
+    ]
+   },
+   "3": {
+    "description": "Adjusts and reorganizes plans to suit changing directions and priorities of the organization",
+    "indicators": [
+     "Interprets the complex and volatile nature of the environment to the Department or organization and adaptively moves it into a more strategic position where it can better address the challenges it faces both now and in the future",
+     "Establishes and implements long-term objectives, goals, or projects that support the strategy",
+     "Proactively prepares, modifies and reviews contingency strategy",
+     "Balances the need to meet short-term goals and objectives with the long-term needs and strategies of the organization"
+    ],
+    "verification": [
+     "Strategic plans",
+     "Investment Plans (MIPH)",
+     "Project proposals for innovations",
+     "Priority Program action plans"
+    ]
+   },
+   "4": {
+    "description": "Sets the direction of changes and adaptation of the organization",
+    "indicators": [
+     "Interprets the complex and volatile nature of the environment to the Department or organization and adaptively moves it into a more strategic position where it can better address the challenges it faces both now and into the future",
+     "Aligns human resource services and programs with the strategic direction of the organization",
+     "Develops and articulates a concise, comprehensive organizational strategy that incorporates a public sector-wide perspective",
+     "Identifies where improvements are needed to meet long-term strategies and effectively and efficiently uses resources to achieve the strategic goals"
+    ],
+    "verification": [
+     "Strategic plans",
+     "Investment Plans (CIPH)",
+     "Project proposal for innovations",
+     "Priority Program Action",
+     "Plans",
+     "OPCR and IPCR results",
+     "Performance Evaluation",
+     "Results"
+    ]
+   }
+  }
+ },
+ {
+  "id": 12,
+  "name": "Accounting Proficiency",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 13,
+  "name": "Achieving High Standards",
+  "category": "technical",
+  "definition": "Ability to set standard of performance for self and others; assuming responsibility and accountability for successfully completing assignment of tasks; self-imposing standards of excellence rather than having standards imposed.",
+  "levels": {
+   "1": {
+    "description": "Sets and follows own acceptable standards",
+    "indicators": [
+     "Understands and complies to the set standards in carrying out assigned tasks and responsibilities in the job",
+     "Dedicates required time and energy to assignment or tasks to ensure that no aspect of work is neglected; works to overcome obstacles to completing tasks or assignments"
+    ],
+    "verification": [
+     "Activity Reports",
+     "360 (subordinates, peers, supervisors)",
+     "Review"
+    ]
+   },
+   "2": {
+    "description": "Is aware of own gaps",
+    "indicators": [
+     "Accepts responsibility for outcomes (positive or negative) of one’s work; admits mistakes and refocuses efforts when appropriate"
+    ],
+    "verification": [
+     "Activity Reports",
+     "360 (subordinates, peers, supervisors)",
+     "Review"
+    ]
+   },
+   "3": {
+    "description": "Promotes high standards to colleagues",
+    "indicators": [
+     "Provides encouragement and support to others in accepting responsibility; does not accept others’ denial of responsibility without questioning",
+     "Recommends policies and programs to promote adherence to work standards set by DOH across organizational ranks and levels"
+    ],
+    "verification": [
+     "Technical",
+     "Advisories",
+     "Certificate of",
+     "Compliance"
+    ]
+   },
+   "4": {
+    "description": "Sets the bar higher for the organization",
+    "indicators": [
+     "Demonstrates broad understanding of global standards for health and medical care",
+     "Plans, develops, executes, monitors, and evaluates policies and programs that will ensure the highest attainable health for all people as defined by the World Health",
+     "Organization"
+    ],
+    "verification": [
+     "Minutes of Meetings",
+     "Attendance Sheet",
+     "Certificate of",
+     "Attendance to",
+     "Seminars/Forums",
+     "Memorandum Circulars",
+     "Strategic Plans"
+    ]
+   }
+  }
+ },
+ {
+  "id": 14,
+  "name": "Advocating Public Health",
+  "category": "technical",
+  "definition": "Ability to promote and advance the advocacies, programs, policies, and regulations of the local health unit and/or DOH to individuals, interest groups, assigned communities, offices, media outlets, and other clients through various communication channels",
+  "levels": {
+   "1": {
+    "description": "Covers individuals and small groups",
+    "indicators": [
+     "Assists and coordinates in distributing information/awareness campaign materials on health advocacies to individuals, assigned communities, organizations, or other interest groups"
+    ],
+    "verification": [
+     "Activity Reports",
+     "Attendance Sheets",
+     "Letter of Invitation for Community",
+     "Talks",
+     "CSS Reports"
+    ]
+   },
+   "2": {
+    "description": "Involves large groups and emplyes different strategies",
+    "indicators": [
+     "Initiates health advocacy campaigns through various channels, e.g., social media, radio and television, newsletters, local newspapers, magazines, etc.",
+     "Shares knowledge with others through appropriate communication channels to promote health advocacy"
+    ],
+    "verification": [
+     "Minutes of",
+     "Meetings",
+     "Attendance Sheet",
+     "Health Information",
+     "Campaign brochures and related materials",
+     "Social Media",
+     "Account",
+     "Letter of Invitation"
+    ]
+   },
+   "3": {
+    "description": "Convinces internal and external clients, and trains them to be advocates too",
+    "indicators": [
+     "Recommends programs and activities that will encourage internal and external clients to be health advocates",
+     "Designs, develops, and facilitates instructional materials to train or orient individuals or groups interested to become health advocates",
+     "Serves as technical resource person on health advocacy programs of the local health units and/or DOH"
+    ],
+    "verification": [
+     "CSS Reports",
+     "Barangay",
+     "Resolutions",
+     "Social Media Account",
+     "Certificate of",
+     "Attendance to"
+    ]
+   },
+   "4": {
+    "description": "Sets direction and appropriate strategies of advocacies for each client",
+    "indicators": [
+     "Plans, develops, and executes programs, policies, and activities that will promote health advocacy to the public",
+     "Works to communicate to staff and other clients including the establishment of advocacy language and the overall goals and objectives of DOH’s health advocacy program"
+    ],
+    "verification": [
+     "Health Ordinances",
+     "Media Account",
+     "Invitation Letters",
+     "Barangay",
+     "Resolutions",
+     "Strategic Plans",
+     "Memorandum",
+     "Circulars",
+     "Memorandum of",
+     "Agreement"
+    ]
+   }
+  }
+ },
+ {
+  "id": 15,
+  "name": "Attention to Details",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 16,
+  "name": "Audit Planning",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 17,
+  "name": "Benefits, Compensation and Welfare Management",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 18,
+  "name": "Biomedical/Biobehavioral Research Expertise",
+  "category": "technical",
+  "definition": "Ability to maintain advance level of biomedical/biobehavioral/scientific knowledge and understanding of the areas of research conducted and/or supported by the DOH.",
+  "levels": {
+   "1": {
+    "description": "Has general understanding of the field and its experts",
+    "indicators": [
+     "Acquires a broad and cross-disciplinary knowledge base",
+     "Identifies and categorizes scientific experts",
+     "Consults with scientific experts to interpret complex biomedical/biobehavioral research information"
+    ],
+    "verification": [
+     "Activity Report",
+     "Minutes of",
+     "Meetings",
+     "Attendance Sheet"
+    ]
+   },
+   "2": {
+    "description": "Knows relevant sources for the field of research",
+    "indicators": [
+     "Follows developments in intramural/extramural research and/or clinical trials",
+     "Identifies relevant scientific resources (e.g. publications, grant applications, contract proposals)",
+     "Maintains a working knowledge of specific research areas related to grant applications/ contract proposals that are submitted for peer review"
+    ],
+    "verification": [
+     "Certificate of",
+     "Attendance to Health",
+     "Conventions / Forums",
+     "Letter of Grants"
+    ]
+   },
+   "3": {
+    "description": "Is updated on the latest literatures and publications",
+    "indicators": [
+     "Keeps abreast of the latest scientific discoveries and technologies",
+     "Attends scientific meetings or workshops in fields relevant to areas of required scientific/ medical expertise",
+     "Reviews professional, medical and other scientific literature to ensure up-to-date and accurate scientific information"
+    ],
+    "verification": [
+     "Certificate of",
+     "Participation / Attendance to",
+     "Medical",
+     "Conventions and Symposiums"
+    ]
+   },
+   "4": {
+    "description": "Directs research strategically",
+    "indicators": [
+     "Is abreast of the major players, institutions, centers, networks, and supporting infrastructure for specific areas of research",
+     "Plans and develops programs and policies that support scientific research and medical breakthroughs"
+    ],
+    "verification": [
+     "Certificate of",
+     "Participation / Attendance to Medical",
+     "Conventions and Symposiums",
+     "Memorandum Circulars",
+     "Administrative Orders",
+     "Memorandum of",
+     "Agreement",
+     "Strategic Plans"
+    ]
+   }
+  }
+ },
+ {
+  "id": 19,
+  "name": "Building a Successful Team",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 20,
+  "name": "Building Relationship with Stakeholders",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 21,
+  "name": "Care Management",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 22,
+  "name": "Case Management",
+  "category": "technical",
+  "definition": "Ability to coordinate and implement the assessment, planning, assignment and resolution of operational requirements including medical cases anchored on major roles of DOH, i.e., leadership and health; enabler and capacity builder; and administrator of specific services.",
+  "levels": {
+   "1": {
+    "description": "Commits to liaise case until completion",
+    "indicators": [
+     "Serves as the point of contact/focal person for assigned program areas to ensure that all operational exigencies, medical cases, and other requirements are carried through to completion",
+     "Recognizes when to seek the assistance and/or intervention of a supervisor or management official on specific cases or situations."
+    ],
+    "verification": [
+     "Activity Reports",
+     "IPCR",
+     "360 (subordinates, peers, supervisors)",
+     "Review"
+    ]
+   },
+   "2": {
+    "description": "Guides and informs clients throughout the process",
+    "indicators": [
+     "Provides periodic, ongoing feedback to patients/clients to ensure an awareness of where actions are in the process",
+     "Assesses, plans, implements, coordinates and monitors each requirement, medical case, or necessary action until it is resolved"
+    ],
+    "verification": [
+     "Medical Charts",
+     "Barangay",
+     "Resolutions",
+     "Plan of Action"
+    ]
+   },
+   "3": {
+    "description": "Ensures good outcome / resolution of the case",
+    "indicators": [
+     "Takes responsibility for the proactive and timely resolution of assigned medical case/ requirement",
+     "Advises program committee/staff and serves as their advocate and liaison to obtain needed technical/medical or administrative services",
+     "Uses a collaborative process to assess, recommend, plan for and provide technical/ medical support and services from the initial requirement until the action is completed"
+    ],
+    "verification": [
+     "Updated individual patient records and oral health reports",
+     "Surveillance",
+     "Reports (e.g., PIDSR)",
+     "Case investigation reports"
+    ]
+   },
+   "4": {
+    "description": "Solves the case in a timely manner",
+    "indicators": [
+     "Serves as an advocate for the client while ensuring that all operational requirements are consistent with national plans, technical/medical standards, and guidelines on health",
+     "Partners with other offices, related government agencies, and private sectors of interest to ensure that operational requirements/exigencies, programs and activities are met in a timely and effective manner"
+    ],
+    "verification": [
+     "Updated individual patient records",
+     "Standard Operating",
+     "Procedures",
+     "Surveillance",
+     "Reports (e.g., PIDSR)",
+     "Case investigation reports"
+    ]
+   }
+  }
+ },
+ {
+  "id": 23,
+  "name": "Cash Management",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 24,
+  "name": "Change Management",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 25,
+  "name": "Computer Skills",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 26,
+  "name": "Conceptual Thinking",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 27,
+  "name": "Continuous Development",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 28,
+  "name": "Contract Management",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 29,
+  "name": "Data Management",
+  "category": "technical",
+  "definition": "Ability to plan, develop, and implement data storage and retrieval systems by applying current DOH’s data models/systems, standards and processes. DOH COMPETENCY CATALOG FOR REGIONAL OFFICES 33",
+  "levels": {
+   "1": {
+    "description": "Stores and retrieves data",
+    "indicators": [
+     "Working knowledge of current data systems of DOH",
+     "Utilizes knowledge of data mining and its various uses to perform duties",
+     "Takes initiative to learn and understands the benefits associated with using multidimensional information based on existing DOH’s data systems"
+    ],
+    "verification": [
+     "Activity Report",
+     "Laboratory Logbook",
+     "Correctly labeled specimens",
+     "Laboratory requests"
+    ]
+   },
+   "2": {
+    "description": "Improves/ upgrades existing database",
+    "indicators": [
+     "Considers the challenges of development, the benefits and applications of data warehouses, and best practices to implement applications",
+     "Knows bibliographic data management systems and databases for scientific research"
+    ],
+    "verification": [
+     "Database systems",
+     "Data logs",
+     "Warehousing",
+     "Reports"
+    ]
+   },
+   "3": {
+    "description": "Integrates existing data structures",
+    "indicators": [
+     "Considers the differences between data management and records management and how they may support one another",
+     "Maintains, analyzes and/or updates a computer database"
+    ],
+    "verification": [
+     "Risk Assessment on",
+     "Software and Hardware Report"
+    ]
+   },
+   "4": {
+    "description": "Spearheads data management and improvement of structures",
+    "indicators": [
+     "Oversees implementation of data management systems to ensure that data and necessary information are safe, workable, and meet DOH’s operational priorities.",
+     "Plans, builds, and implements data infrastructure for continuous improvement of data management systems"
+    ],
+    "verification": [
+     "Systems Structure",
+     "Monitoring and Evaluation Report",
+     "Memorandum Circulars",
+     "Strategic Plan for ICT systems"
+    ]
+   }
+  }
+ },
+ {
+  "id": 30,
+  "name": "Data Recording and Reporting",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 31,
+  "name": "Decision Quality",
+  "category": "technical",
+  "definition": "Ability to make sound decisions that take into account objectives, risks, implications, and Department and governmental regulations.",
+  "levels": {
+   "1": {
+    "description": "Is well-informed",
+    "indicators": [
+     "Gathers sufficient information to identify gaps and variances before making a decision",
+     "Solicits the input of the appropriate people to improve the quality of a decision"
+    ],
+    "verification": [
+     "Activity Report",
+     "360 (peer, subordinates, supervisors)",
+     "Review"
+    ]
+   },
+   "2": {
+    "description": "Examine factors before deciding",
+    "indicators": [
+     "Bases decisions on an analysis of short-range consequences or simple options, including people’s reactions and potential problems",
+     "Weighs the costs, benefits, risks, and chances for success in a decision"
+    ],
+    "verification": [
+     "Minutes of",
+     "Meetings",
+     "Attendance Sheet",
+     "360 (peer, subordinates, supervisors)",
+     "Review",
+     "Action Plan"
+    ]
+   },
+   "3": {
+    "description": "Decides objectively and considers longterm effects",
+    "indicators": [
+     "Focuses on objectives and results when considering the various alternatives to a decision",
+     "Foresees the long-range consequences or implications of different options"
+    ],
+    "verification": [
+     "Action Plan",
+     "Minutes of meeting with agreements on resolved conflicts"
+    ]
+   },
+   "4": {
+    "description": "Decides with the interest of the organization in mind",
+    "indicators": [
+     "Bases decisions on higher principles and Department and governmental regulations with the end goal always in mind"
+    ],
+    "verification": [
+     "Memorandum",
+     "Circulars",
+     "Strategic Plans",
+     "Strategic Action Plan"
+    ]
+   }
+  }
+ },
+ {
+  "id": 32,
+  "name": "Developing Personal and Organizational Capability",
+  "category": "technical",
+  "definition": "Ability to promote continuous development of own and other’s skills. DOH COMPETENCY CATALOG FOR REGIONAL OFFICES 35",
+  "levels": {
+   "1": {
+    "description": "Continuously searches for updates in own field",
+    "indicators": [
+     "Continuously strives to learn/ assimilate/ integrate new ideas and information",
+     "Keeps abreast of current developments in field of expertise"
+    ],
+    "verification": [
+     "Activity Report",
+     "Learning Needs",
+     "Assessment",
+     "Certificate of",
+     "Attendance to technical and behaviorallyanchored skills program"
+    ]
+   },
+   "2": {
+    "description": "Endeavors to improve others’ capacities",
+    "indicators": [
+     "Identifies new technical and/or organizational capabilities needed to improve the",
+     "Department’s performance and efficiency",
+     "Regularly gives honest, constructive feedback, both formally and informally",
+     "Addresses difficult personnel situations in a timely manner"
+    ],
+    "verification": [
+     "Learning Needs",
+     "Assessment of health staff",
+     "Learning and Development plan (list of interventions matched to competency gaps)",
+     "Training list of staff (monitoring)"
+    ]
+   },
+   "3": {
+    "description": "Institutionalizes capacity building",
+    "indicators": [
+     "Builds organizational capability through hiring, developing, or other actions",
+     "Identifies skill areas to be developed and translates them into measurable goals, for self and others"
+    ],
+    "verification": [
+     "Recruitment",
+     "Strategies",
+     "List of DOH",
+     "Training"
+    ]
+   },
+   "4": {
+    "description": "Shares wisdom for the growth of the organization",
+    "indicators": [
+     "Coaches others by identifying development opportunities to help them make the most of their skills and potential",
+     "Mentors others by sharing expertise and experiences, and providing informal advice"
+    ],
+    "verification": [
+     "OPCR",
+     "Workforce",
+     "Analysis Report"
+    ]
+   }
+  }
+ },
+ {
+  "id": 33,
+  "name": "Diplomacy",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 34,
+  "name": "Diversity Management",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 35,
+  "name": "Dormitory Management",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 36,
+  "name": "Driving and Transportation Proficiency",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 37,
+  "name": "Drugs and Medicines Management",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 38,
+  "name": "Effective Presentation Skills",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 39,
+  "name": "Employee Relations and Events",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 40,
+  "name": "Energy to Work",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 41,
+  "name": "Enterprise Resource Planning",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 42,
+  "name": "Equipment, Materials and Supplies Management",
+  "category": "technical",
+  "definition": "Ability to advise, review and coordinate the acquisition, loan, transfer and disposal of accountable property items per RA 9184 regulations and DOH property policies and procedures, and the DOH acquisition and property management processes.",
+  "levels": {
+   "1": {
+    "description": "Does administrative tasks to ensure procurement and maintenance of items and services",
+    "indicators": [
+     "Inventories, operates, maintains, troubleshoots, and resolves minor problems and service requirement for a variety of office equipment",
+     "Acts as liaison with vendors and service providers",
+     "Updates Procurement team on property record exchanges (e.g., arrival, deployment or return of property assigned, changes to defined users, and changes in location of property due to office/location transfer"
+    ],
+    "verification": [
+     "Updated inventory of laboratory supplies and materials",
+     "Inventory Form",
+     "Request form for supplies"
+    ]
+   },
+   "2": {
+    "description": "Checks if procurement procedures were properly followed",
+    "indicators": [
+     "Reviews orders to verify proper code and classification of property (e.g., accountable and non-accountable) and following appropriate DOH procedures",
+     "Coordinates with Procurement team for the acquisition, shipment, maintenance, transfer and retirement of surplus DOH equipment"
+    ],
+    "verification": [
+     "Purchase Orders",
+     "Warehouse Inventory",
+     "Report",
+     "Compliance Review on RA",
+     "9184"
+    ]
+   },
+   "3": {
+    "description": "Probes quality of procured items and services as well as the conduct of procurement",
+    "indicators": [
+     "Completes or reviews property documents (i.e., requests for property passes, donations, trade-ins, transfers, surplus, etc.) for accountable user information, property identification information and accounting data before submission to the",
+     "Procurement team",
+     "Advises DOH staff on RA 9184 and DOH property policies and procedures in relation to the acquisition of accountable items"
+    ],
+    "verification": [
+     "Compliance Review on RA 9184",
+     "Procurement Plan"
+    ]
+   },
+   "4": {
+    "description": "Manages the procurement process and updates its guidelines",
+    "indicators": [
+     "Reviews annual Procurement reports and direct changes to policies and procedures to reduce risk of property loss",
+     "Oversees the implementation of plans, policies and procedures in managing equipment, materials and supplies of DOH"
+    ],
+    "verification": [
+     "Memorandum",
+     "Circulars on RA",
+     "9184 Compliance",
+     "Annual",
+     "Procurement Plan"
+    ]
+   }
+  }
+ },
+ {
+  "id": 43,
+  "name": "Facility and Equipment Maintenance",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 44,
+  "name": "Financial Acumen",
+  "category": "technical",
+  "definition": "Ability to maintain and apply a broad understanding of financial management principles to ensure decisions are fiscally sound and responsible.",
+  "levels": {
+   "1": {
+    "description": "Understands applicable fiscal measures",
+    "indicators": [
+     "Demonstrates broad understanding of financial management principles to direct organizational actions"
+    ],
+    "verification": [
+     "Activity Report",
+     "Minutes of Meetings",
+     "Attendance Sheet",
+     "IPCR",
+     "Accounting / Journal",
+     "Entries Report"
+    ]
+   },
+   "2": {
+    "description": "Strategically applies fiscal measures for organization’s goals",
+    "indicators": [
+     "Sets organizational priorities by aligning organizational finances with DOH strategic goals",
+     "Uses cost-benefit thinking to set priorities"
+    ],
+    "verification": [
+     "Activity Report",
+     "Minutes of",
+     "Meetings",
+     "Attendance Sheet",
+     "IPCR"
+    ]
+   },
+   "3": {
+    "description": "Stays within budget",
+    "indicators": [
+     "Identifies cost effective approaches",
+     "Prepares, justifies and/or administers the budget for the program area"
+    ],
+    "verification": [
+     "Financial Reports",
+     "Budget Planning",
+     "Report"
+    ]
+   },
+   "4": {
+    "description": "Takes responsibility of fiscal decisions",
+    "indicators": [
+     "Monitors the overall performance of the organization and adjusts allocation of finances based on progress against goals",
+     "Fosters an environment that encourages fiscal responsibility"
+    ],
+    "verification": [
+     "Work and Financial",
+     "Plan",
+     "Annual Procurement",
+     "Plan",
+     "Memorandum",
+     "Circulars",
+     "Administrative",
+     "Orders"
+    ]
+   }
+  }
+ },
+ {
+  "id": 45,
+  "name": "Financial Budget and Program Analysis",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 46,
+  "name": "Financial Management",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 47,
+  "name": "Government Accounting and Budgeting",
+  "category": "technical",
+  "definition": "Ability to perform bookkeeping, accounting, budgeting, and auditing processes in accordance to laws, principles, and practices of government/public financial management.",
+  "levels": {
+   "1": {
+    "description": "Consolidates budget submissions and records financial transactions",
+    "indicators": [
+     "Provides support to operational and work and financial plans through budget consolidation",
+     "Creates documents such as Journal Entry Voucher and Cash Flow to record financial transactions"
+    ],
+    "verification": [
+     "Activity Report",
+     "Journal Entries",
+     "Cash Disbursement",
+     "Report"
+    ]
+   },
+   "2": {
+    "description": "Creates financial accountability reports and monitors expenditures and budget utilization",
+    "indicators": [
+     "Checks for completeness and accuracy of supporting documents to ensure timely submission of report/s",
+     "Creates financial accountability reports through systems such as ETS and eNGAS to ensure proper government spending",
+     "Monitors expenditures and budget utilization to ensure efficiency in use of funds"
+    ],
+    "verification": [
+     "Budget Planning",
+     "Report",
+     "ETS and eNGAS",
+     "Reports"
+    ]
+   },
+   "3": {
+    "description": "Reviews and analyzes financial reports to ensure proper implementation of financial plan",
+    "indicators": [
+     "Reviews budget utilization to ensure financial plan is properly implemented",
+     "Reviews and analyzes financial reports to ensure that data is accurate and complete",
+     "Synchronizes cash allocations with budget prescribed for implementation of",
+     "DOH projects and programs"
+    ],
+    "verification": [
+     "Budget Proposal",
+     "Report",
+     "Budget",
+     "Performance",
+     "Report",
+     "OPCR"
+    ]
+   },
+   "4": {
+    "description": "Studies and approves revisions to financial plan and advocates effective, efficient and no wastage budget consumption in implementing program activities",
+    "indicators": [
+     "Enforces Government Laws and Regulations on Government Expenditures",
+     "Studies and approves revisions to financial plan and advocates effective, efficient and no wastage budget consumption in implementing program activities",
+     "Recommends and approves revision (if any) of plan to ensure efficient and proper utilization of funds",
+     "Mentors manager and/or supervisors to analyse expenditure trends",
+     "Champions commitment to frugal use of funds in project and program implementation"
+    ],
+    "verification": [
+     "ETS and NGA’s",
+     "Summary Reports",
+     "COA Review",
+     "Report",
+     "Memorandum",
+     "Circulars",
+     "Budget and Financial Plans"
+    ]
+   }
+  }
+ },
+ {
+  "id": 48,
+  "name": "Government and Departmental Policies and Procedures",
+  "category": "technical",
+  "definition": "Ability to understand and apply knowledge of government and departmental statutes, regulations, policies, and procedures.",
+  "levels": {
+   "1": {
+    "description": "Understands and follows basic government and departmental rules",
+    "indicators": [
+     "Demonstrates basic understanding of the government and departmental policies and procedures",
+     "Assists in organizing information in preparation of documents, abstracts, and proposals with citation on concerned government department/DOH’s policies and procedures"
+    ],
+    "verification": [
+     "Activity Report",
+     "IPCR",
+     "Accomplishment",
+     "Report"
+    ]
+   },
+   "2": {
+    "description": "Follows basic government and departmental rules",
+    "indicators": [
+     "Coordinates activities in preparation of documents, papers, abstracts or proposals and ensures accuracy of information in accordance to government and departmental policies and procedures"
+    ],
+    "verification": [
+     "Abstracts / Proposals on EOs, IRRs, MCs, DCs, RAs and House",
+     "Bills"
+    ]
+   },
+   "3": {
+    "description": "Monitors adherence of the organization to internal and external rules",
+    "indicators": [
+     "Maintains comprehensive working knowledge of related statutes, regulations, policies and procedures affecting DOH",
+     "Ensures work conforms to statutes, regulations, policies, and procedures and is completed within established timeframes"
+    ],
+    "verification": [
+     "Certification of compliance to standards / accreditation of health facilities",
+     "Verification of compliance to SOPs / MOPs from individual client / patient records",
+     "Accomplishment",
+     "Reports"
+    ]
+   },
+   "4": {
+    "description": "Institutionalizes ways that ensures organization’s adherence to rules",
+    "indicators": [
+     "Provides advice and guidance concerning statutes, regulations, policies and procedures",
+     "Ensures compliance of DOH to other government and departmental policies and procedures"
+    ],
+    "verification": [
+     "Memorandum",
+     "Circulars",
+     "Administrative Orders",
+     "Certificate of",
+     "Compliance to SOPs, MOPs from individual client / patient records"
+    ]
+   }
+  }
+ },
+ {
+  "id": 49,
+  "name": "Health Promotion and Health Education",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 50,
+  "name": "Implementing Health Policies and Regulations",
+  "category": "technical",
+  "definition": "Ability to implement knowledge of laws, executive orders, agency rules, and implementing rules and regulations relevant to the line of work.",
+  "levels": {
+   "1": {
+    "description": "Drafts and files legal documents",
+    "indicators": [
+     "Drafts basic reports following legal writing principles through which content is effectively expressed",
+     "Maintains a systematic manner of documenting, filing, and releasing important legal documents"
+    ],
+    "verification": [
+     "Related reports on compliance to laboratory standards",
+     "Birthing Center Records",
+     "/ Logbooks",
+     "Accreditation of",
+     "Birthing Facilities"
+    ]
+   },
+   "2": {
+    "description": "Practices critical thinking and caution in interpreting and implementing laws",
+    "indicators": [
+     "Uses applicable law/s, doctrines and concepts in drafting clear, concise, persuasive, and appropriate legal and official documents",
+     "Identifies and gathers evidence in the conduct of formal investigation, handling and hearing cases"
+    ],
+    "verification": [
+     "Related reports on compliance to laboratory standards",
+     "Related reports on compliance to health ordinances (incident reports, list of violators / sanctions",
+     "Related reports on compliance to oral health standard",
+     "Monitoring and Evaluation tools / reports on oral health programs",
+     "Proposed local policies on oral health (e.g., provision of oral hygiene kit to target population)",
+     "Draft ordinances",
+     "Citizen’s charter"
+    ]
+   },
+   "4": {
+    "description": "Strategizes best plan of action and improves existing policies based on learnings",
+    "indicators": [
+     "Assesses facts and evidence in choosing the best legal action in the resolution of issues by integrating professional legal knowledge, skills and ethics in drawing sound judgment",
+     "Reviews past cases and recommends to local government amendments and/or reforms in policies and procedures in conducting investigation, hearing and handling various cases"
+    ],
+    "verification": [
+     "Health ordinances implemented (e.g. smoke-free municipality",
+     "/ facility based delivery",
+     "Related reports (incident reports, list of violators, sanctions)",
+     "Signages, designated areas for smoking",
+     "Sanitary permits issued / revoked",
+     "Memorandum of",
+     "Agreement"
+    ]
+   },
+   "3": {
+    "description": "Evaluates and endorses clearance to operate",
+    "indicators": [
+     "Reviews and verifies the veracity and applicability of laws acquired in legal documents, field visits, and physical examination in recommending judgment"
+    ],
+    "verification": [
+     "Monitoring and Evaluation tools / reports"
+    ]
+   }
+  }
+ },
+ {
+  "id": 51,
+  "name": "Influencing and Negotiating",
+  "category": "technical",
+  "definition": "Ability to use persuasion to gain the support and cooperation from clients, superiors, colleagues, subordinates and other parties to achieve a desired course of action consistent with the Department’s strategic goals and objectives.",
+  "levels": {
+   "1": {
+    "description": "Sometimes affects others’ decisions and/or stands",
+    "indicators": [
+     "Demonstrates ability to influence others when appropriate",
+     "Develops and presents persuasive arguments that enlist support and addresses the concerns, wants, and needs of others; demonstrates how one’s position benefits the audience, and elicits and responds to objections"
+    ],
+    "verification": [
+     "Activity Reports",
+     "Accomplishment Report",
+     "Attendance Sheet",
+     "Minutes of Meeting",
+     "IPCR"
+    ]
+   },
+   "2": {
+    "description": "Usually tactically affects others’ decisions and/or stands",
+    "indicators": [
+     "Usually anticipates objections and plans how to overcome them using new information or approaches, identifies key decision makers, builds alliances, and enlists third party support and outside resources"
+    ],
+    "verification": [
+     "Minutes of Meeting",
+     "Attendance Sheet",
+     "IPCR",
+     "Accomplishment Report"
+    ]
+   },
+   "3": {
+    "description": "Always tactically affects others' decisions and/or stands",
+    "indicators": [
+     "Even in the most difficult or complex situations, anticipates objections and plans how to overcome them using new information or approaches, identifies key decision makers, builds alliances, and enlists third party support and outside resources",
+     "Maintains an awareness of goals and objectives and navigates solutions towards desired ends, while maintaining relationships and supporting consensus"
+    ],
+    "verification": [
+     "IPCRs",
+     "Accomplishment",
+     "Reports",
+     "Minutes of Meeting",
+     "Attendance Sheet",
+     "Plan of Action"
+    ]
+   },
+   "4": {
+    "description": "Mentors staff in influencing others’ decisions/stands",
+    "indicators": [
+     "Models, leads, trains, and motivates multiple levels of personnel to be excellent in influence",
+     "Uses all available information appropriately to guide decisions and negotiations to meet objectives, while acting with integrity"
+    ],
+    "verification": [
+     "Training Modules",
+     "Certificate of Attendance",
+     "Post-Training Evaluation",
+     "Report",
+     "IPCR"
+    ]
+   }
+  }
+ },
+ {
+  "id": 52,
+  "name": "Information Management",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 53,
+  "name": "Information, Security, Risk Management and Assurance",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 54,
+  "name": "Information Technology Policy and Planning",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 55,
+  "name": "Instructional Design",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 56,
+  "name": "Labor Relations",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 57,
+  "name": "Learning and Development",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 58,
+  "name": "Learning Facilitation",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 59,
+  "name": "Legal Proficiency",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 60,
+  "name": "Management Acumen",
+  "category": "technical",
+  "definition": "Ability to operate effectively within the Department of Health and national government; effectively manage people, resources, and risk.",
+  "levels": {
+   "1": {
+    "description": "Uses all available kinds of resources wisely",
+    "indicators": [
+     "Utilizes and manages people, technology, legal and other resources to achieve outcomes",
+     "Demonstrates an understanding of budget and funding process and how to optimize resource allocation within these constraints"
+    ],
+    "verification": [
+     "Activity Reports",
+     "Budget Plan",
+     "Financial Reports"
+    ]
+   },
+   "2": {
+    "description": "Anticipates resource needs and matches it to existing budget realities",
+    "indicators": [
+     "Identifies current and future resource needs based on organizational goals, priorities, competing resource needs across initiatives, and budget realities",
+     "Maintains and applies a broad understanding of financial management principles to ensure decisions are fiscally sound, responsible and aligned with organizational priorities"
+    ],
+    "verification": [
+     "Strategic Plan of",
+     "Action",
+     "Monitoring and Evaluation",
+     "Report",
+     "Operational Plan"
+    ]
+   },
+   "3": {
+    "description": "Acts within the bounds of law even under pressure",
+    "indicators": [
+     "Understands legal and ethical boundaries and works within them",
+     "Acts decisively by gathering integrating and analyzing sufficient, relevant information from various sources, to make effective, timely and transparent decisions, both in routine and crisis situations"
+    ],
+    "verification": [
+     "Risk Assessment",
+     "Report",
+     "Strategic Plan of",
+     "Action",
+     "Budget Monitoring and Evaluation",
+     "OPCR"
+    ]
+   },
+   "4": {
+    "description": "Protects organization’s interest in making decisions",
+    "indicators": [
+     "Identifies and reacts to organizational and outside forces that might influence or be affected by decisions.",
+     "Uses influence and negotiation skills to advocate or defend decisions as necessary"
+    ],
+    "verification": [
+     "Strategic Plan",
+     "Strategic Action Plan",
+     "Memorandum of",
+     "Agreement"
+    ]
+   }
+  }
+ },
+ {
+  "id": 61,
+  "name": "Managing Conflict",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 62,
+  "name": "Managing Work",
+  "category": "technical",
+  "definition": "Ability to effectively manage one’s time and resources to ensure that work is completed efficiently.",
+  "levels": {
+   "1": {
+    "description": "Ensures own tasks are completed",
+    "indicators": [
+     "Plans to have materials ready “just in time” to complete the job",
+     "Maintains a log of work, production, or maintenance",
+     "Ensures that required equipment and supplies are in appropriate locations so that work can be done effectively"
+    ],
+    "verification": [
+     "Work Schedule",
+     "Activity Report",
+     "Accomplishment",
+     "Report",
+     "IPCR"
+    ]
+   },
+   "2": {
+    "description": "Considers others in completing tasks",
+    "indicators": [
+     "Keeps files organized",
+     "Effectively allocates own time to complete work",
+     "Coordinates own with others’ schedules to avoid conflict"
+    ],
+    "verification": [
+     "Activity Report",
+     "Accomplishment",
+     "Report",
+     "IPCR",
+     "Work Schedule"
+    ]
+   },
+   "3": {
+    "description": "Works smarter and is more flexible",
+    "indicators": [
+     "Identifies more critical and less critical activities and tasks; adjusts priorities when appropriate",
+     "Takes advantage of available resources (individuals, processes, departments, and tools) to complete work efficiently"
+    ],
+    "verification": [
+     "Activity Report",
+     "Accomplishment",
+     "Report",
+     "IPCR",
+     "Work Schedule"
+    ]
+   },
+   "4": {
+    "description": "Focuses on work and ensures timely completion",
+    "indicators": [
+     "Uses time effectively and prevents irrelevant issues or distractions from interfering with work completion",
+     "Anticipates volume of work based on the average period of demand",
+     "Ensures that inventory of equipment and supplies are always adequate to avoid work interruption particularly during an upsurge of customer demands"
+    ],
+    "verification": [
+     "Activity Report",
+     "Accomplishment",
+     "Report",
+     "IPCR",
+     "Work Schedule"
+    ]
+   }
+  }
+ },
+ {
+  "id": 63,
+  "name": "Manpower Acquisition and Development",
+  "category": "technical",
+  "definition": "Ability to institute and implement competency-based manpower planning and recruitment and selection as well as employee development policies, processes and systems.",
+  "levels": {
+   "1": {
+    "description": "Applies basic knowledge of CSC rules and DOH guidelines in conducting the recruitment and selection process",
+    "indicators": [
+     "Prepares postings of existing vacant positions, receives applications, and processes and analyzes job applications in accordance with Qualification",
+     "Standards and competency-based positions of the Agency",
+     "Observes existing policies on recruitment and selection",
+     "Keeps track of vacancies and employee movements in the organization including transfer, promotion, and separation (i.e. retirement, resignation and termination)",
+     "Assists selected candidate in his/her on-boarding process (medical exams, submission of pre-employment requirements)"
+    ],
+    "verification": [
+     "Manpower",
+     "Requisition",
+     "Personnel Inventory",
+     "Report",
+     "CSC Qualification",
+     "Standards Guide",
+     "Attrition / Turnover",
+     "Report",
+     "Employment",
+     "Application Form"
+    ]
+   },
+   "2": {
+    "description": "Displays analytical skills in analyzing and understanding data related to recruitment and selection in order to come up with a shortlist of applicants",
+    "indicators": [
+     "Participates in the preparation of contract and other reports pertaining to recruitment",
+     "Analyzes existing organization structure for planning of additional manpower",
+     "Evaluates, tabulates, computes, and ranks results of selection processes, inclusive of written examinations, behavioral event interviews and background investigations",
+     "Displays ability to provide appropriate answers to application queries or requests when conducting initial interview"
+    ],
+    "verification": [
+     "Employment",
+     "Application Form",
+     "Employment",
+     "Contract",
+     "CSC Guide for",
+     "Qualification",
+     "Standards",
+     "SOPs in Hiring"
+    ]
+   },
+   "3": {
+    "description": "Conducts competency- based interviews, provides inputs to DOH SPB and suggests enhancements to recruitment and selection process",
+    "indicators": [
+     "Ensures consistent implementation of recruitment and placement calendar/plan vis- à-vis existing pertinent policies, processes and procedures",
+     "Monitors effectiveness of existing recruitment process and policies and recommends improvements to ensure competent hires for the organization",
+     "Determines, evaluates, reviews and recommends talent pool requirements of the organization by reviewing strategic objectives",
+     "Modifies or customizes training modules to fit local settings based on set standards, objectives and guidelines"
+    ],
+    "verification": [
+     "SOPs in Hiring",
+     "CSC Guide for",
+     "Qualification",
+     "Standards",
+     "Database of",
+     "Applicants",
+     "New Hire Training",
+     "Module",
+     "Employment"
+    ]
+   },
+   "4": {
+    "description": "Champions initiatives and develops policies on recruitment and selection",
+    "indicators": [
+     "Develops and designs improvements to existing battery of recruitment and placement tools, methodologies, processes and procedures based on emerging technologies",
+     "Sets guidelines for approval of training calendar for specific levels in the organization and other clients",
+     "Approves implementation of the regular conduct of structured training programs and workshops"
+    ],
+    "verification": [
+     "Memorandum",
+     "Circulars",
+     "Strategic Hiring Plan",
+     "Succession Planning",
+     "Program",
+     "Workforce Analysis",
+     "Learning and Development",
+     "Modules"
+    ]
+   }
+  }
+ },
+ {
+  "id": 64,
+  "name": "Maternal and Newborn Care",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 65,
+  "name": "Media and Public Relations",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 66,
+  "name": "Medical Knowledge",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 67,
+  "name": "Medical Social Services",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 68,
+  "name": "Monitoring and Evaluating Skills",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 69,
+  "name": "Networks, Telecommunication, Wireless and Mobility Knowledge",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 70,
+  "name": "Nursing Care",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 71,
+  "name": "Nutrition and Dietetics Services",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 72,
+  "name": "Occupational Safety and Health Knowledge",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 73,
+  "name": "Operating Medical Machines, Equipment and Tools",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 74,
+  "name": "Organizing Communities",
+  "category": "technical",
+  "definition": "Ability to coordinate, organize, and develop the individuals and groups of different communities involved and/or affected in healthrelated projects in order to facilitate implementation and success of the said projects.",
+  "levels": {
+   "1": {
+    "description": "Coordinates with the community officials to accomplish preparatory work",
+    "indicators": [
+     "Carries out groundwork by sending invitations, securing necessary documents such as permits, and preparing needs for training sessions",
+     "Drums up attendance of beneficiaries and other community clients to prescribed meetings or activities",
+     "Establishes links with individuals or leaders, informs them on their roles/ contributions to the success of the programs/activities, and the standards that have to be met",
+     "Gathers data from the community and ensures its accuracy"
+    ],
+    "verification": [
+     "Activity Report",
+     "Accomplishment",
+     "Report",
+     "Invitation from",
+     "Barangays",
+     "Community Survey",
+     "Forms",
+     "Attendance Sheets"
+    ]
+   },
+   "2": {
+    "description": "Connects community members, officials, and external stakeholders to achieve objectives",
+    "indicators": [
+     "Profiles the power dynamics in the community and enlists the support of key influencers who are in formal roles as well as those who are looked up to as informal leaders",
+     "Taps the influence of formal and/or informal leaders in the community when compliance, commitment and/or support among volunteers and other clients slows down or is withheld",
+     "Initiates activities that aim to enhance cooperation and collaboration among community members, volunteers and local government officials",
+     "Is prompt and alert in assessing the quality of participation and involvement of volunteers and local officials, and identifies barriers as well as issues/problems and takes action to address these within scope of authority provided"
+    ],
+    "verification": [
+     "Communication to",
+     "Barangay Official (e.g., letters)",
+     "Invitation Letters",
+     "Creation of Barangay",
+     "Health",
+     "Teams",
+     "Attendance Sheets, photos / documentation of community-based activities"
+    ]
+   },
+   "3": {
+    "description": "Ensures continuity and proper implementation of the initiative for or",
+    "indicators": [
+     "Gauges the readiness of the community and municipal officials in embracing the project/activity, and develops strategies to gain their support and buy-in",
+     "Bridges the community to institutions like municipal/local government unit,"
+    ],
+    "verification": [
+     "Posters / Campaign",
+     "Materials for",
+     "Community Health"
+    ]
+   },
+   "4": {
+    "description": "Establishes long-term partnerships and systems that would benefit the community/project",
+    "indicators": [
+     "Establishes partnerships with high-level community leaders to implement project/activity",
+     "Provides direction and strategy on the selection of external clients to help the community",
+     "Mentors the mentors in participative community organizing",
+     "Guides the implementation teams in adopting national strategies to the contexts, needs, opportunities and challenges of the target municipalities/barangays"
+    ],
+    "verification": [
+     "Committee Reports",
+     "List of Barangays involved in Health",
+     "Campaign",
+     "Programs",
+     "Monitoring and Evaluation of",
+     "Community",
+     "Programs"
+    ]
+   }
+  }
+ },
+ {
+  "id": 75,
+  "name": "Patient-Centered Care",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 76,
+  "name": "People Management",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 77,
+  "name": "Performance Management Standards",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 78,
+  "name": "Planning, Organizing and Delivering",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 79,
+  "name": "Policy Development",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 80,
+  "name": "Political Savvy",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 81,
+  "name": "Preparation of Budget Plans and Annual Budget Submissions",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 82,
+  "name": "Process Management",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 83,
+  "name": "Procurement Planning and Management",
+  "category": "technical",
+  "definition": "Ability to administer contract and other procurement requirements in compliance to RA; manages program and vendor / supplier relationships and monitors contract performance for the effective delivery of goods and services",
+  "levels": {
+   "1": {
+    "description": "Provides initial work for procurement",
+    "indicators": [
+     "Performs initial screening of documents such as purchase requests, specifications and objectives of goods required"
+    ],
+    "verification": [
+     "Report Activity",
+     "Abstract of Canvass",
+     "Procurement",
+     "Requisition",
+     "RIVs and MRs",
+     "Accomplishment",
+     "Report"
+    ]
+   },
+   "2": {
+    "description": "Facilitates negotiation during procurement",
+    "indicators": [
+     "Forecasts the department’s/division’s requirements for supplies, equipment and services",
+     "Evaluates, tabulates, computes, ranks and generates data on various aspects of the procurement process"
+    ],
+    "verification": [
+     "Procurement Plans",
+     "Purchase Requests / Acceptance",
+     "SOPs on RA 9184 compliance"
+    ]
+   },
+   "3": {
+    "description": "Forges terms and agreements advantageous to the organization’s procurement",
+    "indicators": [
+     "Uses highly persuasive and influential approach to negotiation",
+     "Counterchecks if data and documents are in compliance with the procurement processes and forms",
+     "Explores options presented by suppliers as required, modifies options, suggests counter proposals, and constructs new options aimed at securing the best outcome",
+     "Uses trend analysis, benchmarking and performance data in the development of procurement strategy and tactics, and links this effectively to the budgetary planning and category management processes",
+     "Recommends enhancements and/or changes in policies, procedures, and processes that support transparency and equal opportunity in the procurement process"
+    ],
+    "verification": [
+     "Compliance Report on RA 9184",
+     "Minutes of",
+     "Meeting",
+     "Attendance Sheet",
+     "Letters and Memos",
+     "Memorandum of",
+     "Agreement"
+    ]
+   },
+   "4": {
+    "description": "Ensures compliance of organization to procurement policies and targets",
+    "indicators": [
+     "Alert to political sensitivities and their potential impact on procurement negotiations",
+     "Approves the APP and ensures its consistency vis-à-vis the approved yearly"
+    ],
+    "verification": [
+     "Budget Plan",
+     "Review",
+     "Memorandum",
+     "Circulars on RA"
+    ]
+   }
+  }
+ },
+ {
+  "id": 84,
+  "name": "Program/Project Planning and Management",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 85,
+  "name": "Providing Support and Services",
+  "category": "technical",
+  "definition": "Ability to provide support and services in order to meet the administrative/clerical requirements of the office. DOH COMPETENCY CATALOG FOR REGIONAL OFFICES 58",
+  "levels": {}
+ },
+ {
+  "id": 86,
+  "name": "Records Management",
+  "category": "technical",
+  "definition": "Ability to establish a system of procedures in recording and safekeeping of documented information for ease of storage and retrieval.",
+  "levels": {
+   "1": {
+    "description": "Understands and applies basic concepts of records management",
+    "indicators": [
+     "Acquires sound knowledge of records management theories and practices including current standards and recognized best practices",
+     "Uses simple methods to design, set up, and maintain the records systems, retention and disposal schedules, indexing and classifying records"
+    ],
+    "verification": [
+     "Specimen logbook",
+     "Laboratory registry",
+     "Systems-generated reports",
+     "Records disposal schedule",
+     "5-S Schedule",
+     "Pharmacy Inventory",
+     "Form"
+    ]
+   },
+   "2": {
+    "description": "Complies to records management standards",
+    "indicators": [
+     "Adapts records management standards, including government policies on period of retention and best practices, effectively in the institutional context",
+     "Applies range of records management tools and techniques"
+    ],
+    "verification": [
+     "Properly accomplished and filed birth certificates",
+     "Updated record, logbooks, TCL",
+     "Target Client List (remarks section)",
+     "Records Index",
+     "Health program policy"
+    ]
+   },
+   "3": {
+    "description": "Improves existing records management system",
+    "indicators": [
+     "Understands the legal and regulatory framework for records management in the",
+     "Department",
+     "Contributes to the development and implementation of institutional responses to changes in legislation or regulations directly affecting the management of records"
+    ],
+    "verification": [
+     "Properly accomplished individual patient records, updated electronic records /"
+    ]
+   },
+   "4": {
+    "description": "Institutionalizes improvements on records management",
+    "indicators": [
+     "Develops and contributes to procedures, standards, practices for the identification, description, classification, organization, storage, protection, retention and disposition of records"
+    ],
+    "verification": [
+     "Properly accomplished individual dental records, updated electronic record / databases"
+    ]
+   }
+  }
+ },
+ {
+  "id": 87,
+  "name": "Research and Analysis",
+  "category": "technical",
+  "definition": "Ability to demonstrate knowledge and application of terminology, tools, tactics, principles and practices for the successful implementation of a plan.",
+  "levels": {
+   "1": {
+    "description": "Conducts simple research using technical language",
+    "indicators": [
+     "Can properly identify a problem and form hypothesis based on the information gathered/presented",
+     "Can develop a plan appropriate to the research methods/techniques to be used",
+     "Has the ability to draft/write research paper using controlled vocabulary/jargon and is able to identify appropriate resources specific to the discipline or information"
+    ],
+    "verification": [
+     "Mortality and morbidity reports",
+     "Case / epidemiologic investigation"
+    ]
+   },
+   "2": {
+    "description": "Fits research and its methodology with organization’s goals and existing literatures",
+    "indicators": [
+     "Applies appropriate research techniques/methodologies in the development of research initiatives in support of the Department’s goals",
+     "Develops a research plan and implements appropriate research methods/ techniques using controlled vocabulary/jargon and is able to identify appropriate resources specific to the discipline or information"
+    ],
+    "verification": [
+     "Mortality and morbidity reports",
+     "Reports on health statistics / status of the MHO",
+     "Case / epidemic investigation",
+     "Maternal death review"
+    ]
+   },
+   "3": {
+    "description": "Ensures research is research is relevant and reliable",
+    "indicators": [
+     "Possesses detailed knowledge and clear understanding of the range of ideas and information through logically structured descriptions and narratives that relate to the research area concerned",
+     "Ensures that research plans, techniques and strategies to be employed are all based on sound analysis of information",
+     "Conducts preliminary assessment of results to ascertain validity and accuracy of information"
+    ],
+    "verification": [
+     "Mortality and morbidity reports",
+     "Reports on health statistics / status of the MHO"
+    ]
+   },
+   "4": {
+    "description": "Uses research and its analyses to improve organization",
+    "indicators": [
+     "Oversees, assesses and provides guidance on the utilization of resources (e.g. financial, personnel and time) required to complete a proposed research",
+     "Utilizes research data and outputs as basis for developing plans and strategies to achieve the Department ’s policies, objectives, and initiatives"
+    ],
+    "verification": [
+     "Designs, revises and updates the reporting and recording of the established",
+     "Regional Health",
+     "Information",
+     "System (RHIS)"
+    ]
+   }
+  }
+ },
+ {
+  "id": 88,
+  "name": "Resilience",
+  "category": "technical",
+  "definition": "Ability to respond professionally in stressful and difficult situations; adapts quickly to change and easily consider new approaches.",
+  "levels": {
+   "1": {
+    "description": "Is open to changes in work environment",
+    "indicators": [
+     "Understands changes in work tasks and environment as well as the basis for change",
+     "Exhibits calmness and ease in ambiguous situations"
+    ],
+    "verification": [
+     "Activity Report",
+     "CSS Report",
+     "360 (peer, subordinates, supervisors)",
+     "Review",
+     "Client Feedback"
+    ]
+   },
+   "2": {
+    "description": "Adapts to work changes",
+    "indicators": [
+     "Remains flexible and welcomes ambiguous situations, accurately assesses risks and options",
+     "Diverts direction and reorients quickly and acts decisively at the right time"
+    ],
+    "verification": [
+     "Activity Report",
+     "CSS Report",
+     "360 (peer, subordinates, supervisors)",
+     "Review",
+     "Client Feedback"
+    ]
+   },
+   "3": {
+    "description": "Responds positively to",
+    "indicators": [
+     "Thinks and acts effectively under pressure"
+    ],
+    "verification": [
+     "360 Evaluation"
+    ]
+   },
+   "4": {
+    "description": "Sets as a good example and mentors team members",
+    "indicators": [
+     "Adjusts timelines, results and expectations appropriately to changing needs.",
+     "Overcomes obstacles to achieve results",
+     "Identifies ways to incorporate new practices into existing framework.",
+     "Models, leads, trains, and motivates multiple levels of personnel to deal effectively with ambiguity and change"
+    ],
+    "verification": [
+     "Memorandum",
+     "Circulars",
+     "Learning and Development Plan",
+     "Learning and Development",
+     "Modules",
+     "Post-training",
+     "Evaluation",
+     "IPCR"
+    ]
+   }
+  }
+ },
+ {
+  "id": 89,
+  "name": "Respecting and Caring for Patients",
+  "category": "technical",
+  "definition": "Ability to establish a relationship of trust with patient by treating him/her with respect to his/her religious, cultural, or social background; respecting the right of patient to confidentiality and privacy.",
+  "levels": {
+   "1": {
+    "description": "Exhibits concern to patient",
+    "indicators": [
+     "Listens and responds to patient’s needs and preferences",
+     "Establishes initial assessment of patient’s medical requirements"
+    ],
+    "verification": [
+     "Treatment record",
+     "Customer",
+     "Satisfaction Survey",
+     "/Feedback",
+     "Confidentiality",
+     "Form",
+     "Treatment contract for TB patients",
+     "“Kasunduan”"
+    ]
+   },
+   "2": {
+    "description": "Caters to patient’s needs",
+    "indicators": [
+     "Provides and coordinates patient care and ensures to give him/her information they need in a way he/she can understand Treats patient attentively and conscientiously"
+    ],
+    "verification": [
+     "Treatment record",
+     "Customer",
+     "Satisfaction Survey",
+     "/ Feedback"
+    ]
+   },
+   "3": {
+    "description": "Puts premium on patient’s decisions and space",
+    "indicators": [
+     "Works in partnership with patient and respects his/her right to reach a decision on treatment and care",
+     "Provides adequate follow up to the patient with reasonable amount of time"
+    ],
+    "verification": [
+     "Customer",
+     "Satisfaction",
+     "Feedback reports",
+     "Patients’ Logbook",
+     "Updated Target",
+     "Client List (TCL)",
+     "Random client interviews /"
+    ]
+   },
+   "4": {
+    "description": "Leads in the treatment of patient",
+    "indicators": [
+     "Exhibits a wide range of medical knowledge to diagnose, prescribe the right treatment and medication to heal illnesses and injuries",
+     "Identifies foreseeable risks associated with treatment and tells patient about any risk that may have serious consequence Guides medical teams in proper care of patient"
+    ],
+    "verification": [
+     "Customer",
+     "Satisfaction",
+     "Feedback reports"
+    ]
+   }
+  }
+ },
+ {
+  "id": 90,
+  "name": "Risk Management",
+  "category": "technical",
+  "definition": "Ability to plan, develop, and implement measures that will avoid, overcome or compensate for elements of risk.",
+  "levels": {
+   "1": {
+    "description": "Collects risk-related data",
+    "indicators": [
+     "Demonstrates basic understanding in identifying risk",
+     "Gathers data (variations in the process, trends, public comments/opinions and others) available needed for risk assessment",
+     "Provides assistance in periodic review of activities to ensure work in compliance with risk objectives"
+    ],
+    "verification": [
+     "Program Plans",
+     "Micro Plans",
+     "Activity Report",
+     "Research Report",
+     "Accomplishment",
+     "Report"
+    ]
+   },
+   "2": {
+    "description": "Prevents identified risks from happening",
+    "indicators": [
+     "Collaborates with process owners to ensure compliance with regulatory requirements",
+     "Evaluates controls to help mitigate negative outcomes through prevention or detection and correction"
+    ],
+    "verification": [
+     "Recommendations on preventive actions (letters . reports)",
+     "Minutes of Staff meetings",
+     "City DRRMP plan"
+    ]
+   },
+   "3": {
+    "description": "Establishes advanced risk detection mechanisms",
+    "indicators": [
+     "Aligns efforts considering individual, department/division/section, and organizational strategies",
+     "Communicates the impact of identified risks and recommends corrective action",
+     "Conducts periodic review of compliance with risk objectives",
+     "Establishes controls to help mitigate negative outcomes through prevention or detection and correction Maintains consistent data"
+    ],
+    "verification": [
+     "Recommendations on preventive actions (letters. reports)",
+     "Minutes of Staff meetings"
+    ]
+   },
+   "4": {
+    "description": "Sets up institutionalized systems to mitigate",
+    "indicators": [
+     "Establishes or relies on proven risk management methods, models, and tools",
+     "Develops solutions to mitigate risk and maximize value",
+     "Identifies the risks of negative outcomes (including inadvertent error or fraud)"
+    ],
+    "verification": [
+     "Health Emergency",
+     "Response and Preparedness Plan"
+    ]
+   }
+  }
+ },
+ {
+  "id": 91,
+  "name": "Scientific Knowledge for Health/Medical Staff",
+  "category": "technical",
+  "definition": "Ability to maintain basic level of biomedical/scientific knowledge and understanding of areas of research conducted and/or supported by the organization.",
+  "levels": {
+   "1": {
+    "description": "Prepares preliminary work for scientific endeavors",
+    "indicators": [
+     "Adjusts administrative services provided in response to an understanding of the core work activities of the scientific workforce",
+     "Analyzes, verifies and documents scientific research reporting requirements"
+    ],
+    "verification": [
+     "Program plans",
+     "Micro Plans",
+     "Activity Report",
+     "Research Report",
+     "Accomplishment",
+     "Report"
+    ]
+   },
+   "2": {
+    "description": "Updates oneself on latest medical/ scientific research",
+    "indicators": [
+     "Checks for developments in intramural research, extramural research and/or clinical trials",
+     "Consults with scientific experts to interpret complex biomedical research information to include in DOH’s medical journal / communication materials"
+    ],
+    "verification": [
+     "Program plans",
+     "Micro Plans",
+     "Activity Report",
+     "Research Report",
+     "Accomplishment",
+     "Report"
+    ]
+   },
+   "3": {
+    "description": "Applies medical/scientific literatures in organization’s communication",
+    "indicators": [
+     "Develops a general understanding of the scientific research priorities for the DOH as a whole and for specific community served",
+     "Reviews professional, medical and other scientific literature to ensure up-to-date and accurate scientific information is included in communications materials"
+    ],
+    "verification": [
+     "Learning and Development",
+     "Needs Assessment",
+     "Learning and Development"
+    ]
+   },
+   "4": {
+    "description": "Applies medical/ scientific literatures to organizational work plan",
+    "indicators": [
+     "Translates scientific understanding to the types of positions, staff, and learning and development activities needed to successfully carry out the mission of the",
+     "DOH",
+     "Understands the core work activities that Program staff engages in to carry out their work and how this impacts the DOH mission"
+    ],
+    "verification": [
+     "Learning and Development",
+     "Strategies",
+     "Certificate of",
+     "Attendance to",
+     "Symposiums",
+     "Learning and Development",
+     "Reports"
+    ]
+   }
+  }
+ },
+ {
+  "id": 92,
+  "name": "Scientific Review Management",
+  "category": "technical",
+  "definition": "Ability to plan and conduct scientific review activities to ensure an unbiased, informed review process, and successful programmatic outcomes.",
+  "levels": {
+   "1": {
+    "description": "Conducts preliminary assessment of proposals",
+    "indicators": [
+     "Assesses applications and reviewers for potential conflict of interest or appearance of conflict of interest",
+     "Assesses completeness of the applications/proposals and monitors for adherence to instructions"
+    ],
+    "verification": [
+     "Proposal for",
+     "Scientific Review",
+     "List of Selected",
+     "Candidates for",
+     "Scientific Review"
+    ]
+   },
+   "2": {
+    "description": "Prepares report of assessment of review",
+    "indicators": [
+     "Assesses needs for reviewer expertise, assesses expertise of potential reviewers, recruits appropriate reviewers, and abides by policies/practices for maintaining fair and equitable practice in this recruitment",
+     "Communicates accurate and up-to-date DOH peer review policies and instructions to educate and train reviewers",
+     "Determines the expertise required for the review panel",
+     "Summarizes scientific review meeting outcomes and communicates to appropriate audiences",
+     "Utilizes knowledge of and tools for data-mining to analyze information both qualitatively and quantitatively to support the review process"
+    ],
+    "verification": [
+     "Assessment Report on Qualifications of",
+     "Scientific Reviewer",
+     "Minutes of the",
+     "Meeting",
+     "Attendance Sheet"
+    ]
+   },
+   "3": {
+    "description": "Facilitates peer review or fair approval of proposal",
+    "indicators": [
+     "Identifies and assigns reviewers with the required expertise, taking into consideration scientific excellence, as demonstrated by grant and publication record; experience and fairness in the peer review process; and breadth of expertise",
+     "Manages peer review meetings consistent with applicable statute, regulation, and policy",
+     "Understands the various stages of the DOH application/proposal submission, referral, administrative review, and award process"
+    ],
+    "verification": [
+     "Assessment Report on Qualifications of",
+     "Scientific Reviewer",
+     "Creation of",
+     "Committee for Panel",
+     "Review of",
+     "Candidates for",
+     "Scientific Review",
+     "Minutes of",
+     "Meeting",
+     "Attendance Sheet"
+    ]
+   },
+   "4": {
+    "description": "Supervises for a",
+    "indicators": [
+     "Monitors and oversees the scientific review process and ensures consistent"
+    ],
+    "verification": [
+     "Memorandum"
+    ]
+   }
+  }
+ },
+ {
+  "id": 93,
+  "name": "Statistical Research for Health",
+  "category": "technical",
+  "definition": "Ability to accurately design data acquisition methods, assess data quality/reliability, analyze trends using statistical methodologies, monitor, and report health statistics and other data relevant to clients using necessary software and aids.",
+  "levels": {
+   "1": {
+    "description": "Retrieves and analyzes data under supervision of superior",
+    "indicators": [
+     "Is aware of data sources directly relevant to own work or subject area",
+     "Identifies strengths and limitations of data sources they use",
+     "Suggests data needs and acquisition methods",
+     "Understands principles of sample and survey design and collection methods",
+     "Conducts fieldwork and desk research for data retrieval",
+     "Does a preliminary run of analysis",
+     "Checks validity and integrity of data",
+     "Monitors health data/statistics as directed by superior",
+     "Consolidates data into a report"
+    ],
+    "verification": [
+     "Activity Report",
+     "Research Report",
+     "Accomplishment",
+     "Report"
+    ]
+   },
+   "2": {
+    "description": "Designs data collection methods and tools, and analyzes data to make conclusions",
+    "indicators": [
+     "Has detailed knowledge of data sources in their work area and working knowledge of other data sources in related areas",
+     "Can identify and assess suitability of other data sources",
+     "Plans and implements data acquisition methods",
+     "Can develop or design or manage surveys and new data collection from administrative sources",
+     "Supervises fieldwork and desk research for data retrieval",
+     "Finalizes overall analysis to make conclusions and generalizations",
+     "Directs and implements monitoring of health data/statistics",
+     "Reports significant findings"
+    ],
+    "verification": [
+     "List of Data Resource and Methodology",
+     "Research Report",
+     "Accomplishment",
+     "Report"
+    ]
+   },
+   "3": {
+    "description": "Approves methods and tools, and recommends policies, programs to address concerning health statistics",
+    "indicators": [
+     "Has detailed knowledge of data sources in their work area and working knowledge of other data sources in related areas",
+     "Can identify and assess suitability of other data sources",
+     "Plans and implements data acquisition methods",
+     "Can develop or design or manage surveys and new data collection from administrative sources",
+     "Supervises fieldwork and desk research for data retrieval",
+     "Finalizes overall analysis to makes conclusions and generalizations",
+     "Directs and implements monitoring of health data/statistics",
+     "Reports significant findings"
+    ],
+    "verification": [
+     "Action Plan",
+     "Research Report",
+     "Tools / Methodology of Research Schedule of Field",
+     "Research Activities",
+     "Accomplishment",
+     "Report"
+    ]
+   },
+   "4": {
+    "description": "Mentors staff on health statistics, sets standards of department, and lobbies for policies, programs to address concerning health statistics",
+    "indicators": [
+     "Provides technical knowledge on health statistics",
+     "Establishes standards for statistical research on health",
+     "Lobbies for policies and programs for effective management of statistical research on health",
+     "Encourage continuous learning on statistical health through seminars and membership in professional organizations of statisticians"
+    ],
+    "verification": [
+     "Memorandum",
+     "Circulars",
+     "Administrative",
+     "Orders",
+     "Strategic Plans for",
+     "Learning and Development"
+    ]
+   }
+  }
+ },
+ {
+  "id": 94,
+  "name": "Supply Chain Management",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 95,
+  "name": "Systems Administration and Data Management",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 96,
+  "name": "Technical Consulting",
+  "category": "technical",
+  "definition": "Ability to provide expertise, technical guidance and training to ensure projects and operations are carried out effectively. DOH COMPETENCY CATALOG FOR REGIONAL OFFICES 71",
+  "levels": {
+   "1": {
+    "description": "Shares technical knowledge to solve work problems",
+    "indicators": [
+     "Demonstrates broad learning perspectives",
+     "Serves as a resource to others on technical/work issues and problems",
+     "Develops awareness that the key tool to consulting is the integrated person of a consultant"
+    ],
+    "verification": [
+     "Documentation of activities involving sharing of new information / developments",
+     "Post-Training",
+     "Evaluation Report"
+    ]
+   },
+   "2": {
+    "description": "Provides timely help",
+    "indicators": [
+     "Actively guides others in interpreting and solving work issues"
+    ],
+    "verification": [
+     "Invitations to"
+    ]
+   },
+   "3": {
+    "description": "Ensures clients receive up-to-date and effective solution/ information",
+    "indicators": [
+     "Explores, develops and presents alternatives and approaches",
+     "Grasps complexities and perceives relationships among issues",
+     "Proactively shares information and resources across organization",
+     "Evaluates and improves client experience through account management, assessment and measuring end result of the consulting activity"
+    ],
+    "verification": [
+     "Participation in community assemblies"
+    ]
+   },
+   "4": {
+    "description": "Mentors clients in addressing the technical problem at an organizational level",
+    "indicators": [
+     "Shares and discusses critical information that increases other employees’ understanding",
+     "Actively supports continuous learning and keeps abreast of new developments within technical area",
+     "Finds appropriate ways to use new ideas, approaches, and knowledge to more effectively address organizational challenges"
+    ],
+    "verification": [
+     "Invitation to lecture",
+     "Program",
+     "Certificates",
+     "Attendance Sheet",
+     "Referral forms",
+     "Learning evaluation form"
+    ]
+   }
+  }
+ },
+ {
+  "id": 97,
+  "name": "Technical Writing",
+  "category": "technical",
+  "definition": "Ability to write useful, relevant and accurate information on a particular occupational field where body of knowledge, complex ideas, concepts, processes or procedures need to be communicated. Geared to a specifically target audience in order to enable a set of actions on the part of the audience in pursuit of a defined goal.",
+  "levels": {
+   "1": {
+    "description": "Practices simple technical communication",
+    "indicators": [
+     "Applies basic knowledge and understanding of written communication to convey field-specific information, data, or reports",
+     "Writes in a clear and concise manner to be able to convey information to a targeted audience",
+     "Coordinates with other departments to gather data/information relevant to a report"
+    ],
+    "verification": [
+     "Written reports",
+     "Communication plan",
+     "Write Ups",
+     "Newsletters"
+    ]
+   },
+   "2": {
+    "description": "Produces technical documentation",
+    "indicators": [
+     "Documents research, abstracts, guides, or other useful information to serve as reference for similar and future research or study",
+     "Applies specific tools and knowledge in order to produce technical documentation",
+     "Knows how to ask questions to a specific audience in gathering data for survey on specific field research and able to document, analyze, and come up with a written report"
+    ],
+    "verification": [
+     "Technical Research",
+     "Report",
+     "Automated statistical tools",
+     "Field Survey",
+     "Questionnaires"
+    ]
+   },
+   "3": {
+    "description": "Translates elaborate and deep understanding of technical concepts to technical reports",
+    "indicators": [
+     "Uses graphics, quantitative and qualitative interpretation of data to aid decision makers in analyzing root causes of problems and coming up with alternatives in the process of decision making",
+     "Reviews written technical report to ensure accuracy and relevance of information or data prior to publication or release to target audience"
+    ],
+    "verification": [
+     "Technical Research",
+     "Report",
+     "Automated statistical tools",
+     "Field Survey",
+     "Questionnaires",
+     "Slide Presentation on Research",
+     "Results"
+    ]
+   },
+   "4": {
+    "description": "Ensures technical reports are accurate, responsive, and relevant",
+    "indicators": [
+     "Plans, develops, and executes programs and policies to ensure that technical writing reports are accurate, relevant, and useful to the functional objectives of the department, division or section",
+     "Influences to innovate or create new ways of writing technical reports to keep abreast of changing technologies and evolving business processes of DOH"
+    ],
+    "verification": [
+     "Memorandum",
+     "Circulars",
+     "Administrative",
+     "Orders",
+     "Letters or Memos on Technical",
+     "Reporting"
+    ]
+   }
+  }
+ },
+ {
+  "id": 98,
+  "name": "Therapy, Consulting and Behavioral Assessment",
+  "category": "technical",
+  "definition": null,
+  "levels": {}
+ },
+ {
+  "id": 99,
+  "name": "Training Program Administration",
+  "category": "technical",
+  "definition": "Ability to promote individual and organizational development through planning, designing, and managing employee development and training programs/services.",
+  "levels": {
+   "1": {
+    "description": "Does secretariat duties to carry out training program",
+    "indicators": [
+     "Provides support in preparing training materials and handouts, equipment and supplies making sure that logistical and other physical requirements are well prepared prior to training conduct",
+     "Keeps track of training records and inventory in organized manner",
+     "Generates periodic report of training, seminars, workshops, forum and conferences attended by EEC officials or employees",
+     "Prepares and arranges for cash/fund needed for internal and external training as well as travel arrangement and other details as appropriate"
+    ],
+    "verification": [
+     "Training Database",
+     "Management and Reporting",
+     "Training",
+     "Administration"
+    ]
+   },
+   "2": {
+    "description": "Does logistics and prepares content of the training program",
+    "indicators": [
+     "Manages facilities/training venue and spaces",
+     "Manages equipment and materials",
+     "Coordinates with facilitator/s and participants on training schedules, venue, and other necessary details and advises on confirmation or cancellation as appropriate",
+     "Helps in the preparation of Audio-Visual Presentation, content research, and other related materials in design process and build-up"
+    ],
+    "verification": [
+     "Training Logistics",
+     "Plan",
+     "Content Research based from",
+     "Curriculum Design"
+    ]
+   },
+   "3": {
+    "description": "Strategically plans for the training programs",
+    "indicators": [
+     "Identifies and deploys program delivery strategies and methodologies",
+     "Disseminates program information"
+    ],
+    "verification": [
+     "Training Plan",
+     "Training Program"
+    ]
+   },
+   "4": {
+    "description": "Conducts training program evaluation and implements learning strategies",
+    "indicators": [
+     "Continuously identifies areas for improvement and acts for effective delivery of both internal and external training",
+     "Oversees the programs, activities and tasks necessary for effective implementation of training plans and strategies"
+    ],
+    "verification": [
+     "Training Strategies based on training evaluation report",
+     "Training",
+     "Evaluation Report"
+    ]
+   }
+  }
+ },
+ {
+  "id": 100,
+  "name": "Workforce Planning",
+  "category": "technical",
+  "definition": "Ability to understand and demonstrate knowledge of business strategy and human resource (HR) concepts, principles, and practices to effectively align the needs of DOH and its workforce and to design strategies that support leadership in planning for and obtaining the necessary resources to carry out its mission. DOH COMPETENCY CATALOG FOR REGIONAL OFFICES 75",
+  "levels": {
+   "1": {
+    "description": "Analyzes and plans Workforce Management need",
+    "indicators": [
+     "Advises leadership on the potential impact indicated by workforce data, highlighting organizational strengths and risks (e.g., potential for attrition), and suggesting applicable HR strategies",
+     "Applies various methods (e.g., transaction counts, staffing ratios, decision or allocation rules) to measure and estimate the Department’s workload and corresponding staffing needs"
+    ],
+    "verification": [
+     "Talent",
+     "Management Plan",
+     "Time and Motion",
+     "Studies (TMS) of",
+     "Work Activities",
+     "TMS Analysis",
+     "Report",
+     "Staffing Needs",
+     "Report"
+    ]
+   },
+   "2": {
+    "description": "Creates Talent Management Plan based on WFM data",
+    "indicators": [
+     "Collaborates with leadership to aggregate workforce needs (i.e., emerging areas of work, potential competency gaps) and to develop strategies that will ensure a sufficient pipeline to meet business needs",
+     "Gathers, analyzes and reports on position, workforce data, and/or competencies from HR databases and other sources to present historical patterns and trending,"
+    ],
+    "verification": [
+     "Talent",
+     "Management Plan",
+     "Time and Motion",
+     "Studies (TMS) of"
+    ]
+   },
+   "4": {
+    "description": "Creates and executes competency-based HR program",
+    "indicators": [
+     "Builds, implements and manages competency-based HR tools to help employees use competencies as appropriate to their roles (e.g., hiring, placement, assessment, development)",
+     "Informs and educates staff about organizational competency gaps and how to develop individual development plans linked to competencies",
+     "Establishes and manages processes and programs to manage the size of the organization’s workforce and facilitate resource alignment with areas of greatest importance to DOH’s mission"
+    ],
+    "verification": [
+     "Competency",
+     "Framework",
+     "Program",
+     "Workforce",
+     "Analysis and Planning",
+     "Memorandum",
+     "Circulars",
+     "Administrative",
+     "Orders",
+     "Strategic Action",
+     "Plan"
+    ]
+   },
+   "3": {
+    "description": "Develops Succession Planning Program based on gap analysis and WFM data",
+    "indicators": [
+     "Develops succession planning tools and templates to support leadership in ensuring the continuity of mission/work",
+     "Uses analytical skills to determine what knowledge, skills, abilities, and other relevant personal characteristics are required to successfully carry out the work",
+     "Examines decisions of the Department’s leadership and makes presentation to educate and promote awareness on human capital development issues"
+    ],
+    "verification": [
+     "Succession Planning Program",
+     "Learning and Development Needs Analysis and Training Plan",
+     "Slide Presentation on L&D NA"
+    ]
+   }
+  }
+ }
+]

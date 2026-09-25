@@ -1,0 +1,594 @@
+[
+ {
+  "id": 1,
+  "title": "Values Restoration Program",
+  "mode": "non-formal",
+  "type": "In-house training",
+  "provider": "CSC / CETAR",
+  "hours": 16,
+  "level": 1,
+  "competency_ids": [
+   1,
+   2
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [],
+  "description": "",
+  "standards": {
+   "1": 1,
+   "2": 1
+  }
+ },
+ {
+  "id": 2,
+  "title": "Customer Service Excellence Workshop",
+  "mode": "non-formal",
+  "type": "In-house training",
+  "provider": "CETAR",
+  "hours": 8,
+  "level": 1,
+  "competency_ids": [
+   3,
+   75
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [],
+  "description": "",
+  "standards": {
+   "3": 1,
+   "75": 1
+  }
+ },
+ {
+  "id": 3,
+  "title": "Effective Business Writing and Communication",
+  "mode": "non-formal",
+  "type": "External training",
+  "provider": "Civil Service Institute",
+  "hours": 24,
+  "level": 2,
+  "competency_ids": [
+   4,
+   97
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [],
+  "description": "",
+  "standards": {
+   "4": 1,
+   "97": 1
+  }
+ },
+ {
+  "id": 4,
+  "title": "Interpersonal Skills and Workplace Relations",
+  "mode": "non-formal",
+  "type": "In-house training",
+  "provider": "CETAR",
+  "hours": 8,
+  "level": 1,
+  "competency_ids": [
+   5
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [],
+  "description": "",
+  "standards": {
+   "5": 1
+  }
+ },
+ {
+  "id": 5,
+  "title": "Orientation on DOH Vision, Mission and Structure",
+  "mode": "non-formal",
+  "type": "In-house training",
+  "provider": "CETAR",
+  "hours": 4,
+  "level": 1,
+  "competency_ids": [
+   6
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [],
+  "description": "",
+  "standards": {
+   "6": 1
+  }
+ },
+ {
+  "id": 6,
+  "title": "Design Thinking for Public Service Innovation",
+  "mode": "non-formal",
+  "type": "eLearning / webinar",
+  "provider": "CSC LEAP",
+  "hours": 12,
+  "level": 2,
+  "competency_ids": [
+   7
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [],
+  "description": "",
+  "standards": {
+   "7": 1
+  }
+ },
+ {
+  "id": 7,
+  "title": "Leadership and Management Training",
+  "mode": "non-formal",
+  "type": "In-house training",
+  "provider": "CETAR",
+  "hours": 40,
+  "level": 3,
+  "competency_ids": [
+   8,
+   9,
+   10,
+   11,
+   6,
+   34
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [],
+  "description": "",
+  "standards": {
+   "8": 2,
+   "9": 2,
+   "10": 2,
+   "11": 2,
+   "6": 2,
+   "34": 2
+  }
+ },
+ {
+  "id": 8,
+  "title": "Coaching on the job from immediate supervisor",
+  "mode": "informal",
+  "type": "Coaching",
+  "provider": "Immediate supervisor",
+  "hours": null,
+  "level": 1,
+  "competency_ids": [
+   10,
+   62,
+   86
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [],
+  "description": "",
+  "standards": {
+   "10": 1,
+   "62": 1,
+   "86": 1
+  }
+ },
+ {
+  "id": 9,
+  "title": "Master in Public Administration",
+  "mode": "formal",
+  "type": "Graduate degree",
+  "provider": "Accredited university",
+  "hours": null,
+  "level": 3,
+  "competency_ids": [
+   6,
+   60,
+   79
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [],
+  "description": "",
+  "standards": {
+   "6": 2,
+   "60": 2,
+   "79": 2
+  }
+ },
+ {
+  "id": 10,
+  "title": "Master in Hospital Administration",
+  "mode": "formal",
+  "type": "Graduate degree",
+  "provider": "Accredited university",
+  "hours": null,
+  "level": 4,
+  "competency_ids": [
+   60,
+   78
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [],
+  "description": "",
+  "standards": {
+   "60": 3,
+   "78": 3
+  }
+ },
+ {
+  "id": 11,
+  "title": "Basic Records Management",
+  "mode": "non-formal",
+  "type": "In-house training",
+  "provider": "CETAR",
+  "hours": 8,
+  "level": 1,
+  "competency_ids": [
+   86,
+   30
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [],
+  "description": "",
+  "standards": {
+   "86": 1,
+   "30": 1
+  }
+ },
+ {
+  "id": 12,
+  "title": "Spreadsheets for Office Reports",
+  "mode": "non-formal",
+  "type": "eLearning / webinar",
+  "provider": "CETAR",
+  "hours": 6,
+  "level": 1,
+  "competency_ids": [
+   25,
+   30
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [],
+  "description": "",
+  "standards": {
+   "25": 1,
+   "30": 1
+  }
+ },
+ {
+  "id": 13,
+  "title": "Training of Trainers",
+  "mode": "non-formal",
+  "type": "In-house training",
+  "provider": "CETAR",
+  "hours": 24,
+  "level": 3,
+  "competency_ids": [
+   58,
+   99
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [],
+  "description": "",
+  "standards": {
+   "58": 2,
+   "99": 2
+  }
+ },
+ {
+  "id": 14,
+  "title": "Gender and Development and Diversity in the Workplace",
+  "mode": "non-formal",
+  "type": "In-house training",
+  "provider": "GAD Focal Point",
+  "hours": 8,
+  "level": 1,
+  "competency_ids": [
+   34
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [],
+  "description": "",
+  "standards": {
+   "34": 1
+  }
+ },
+ {
+  "id": 15,
+  "title": "Health Promotion and Advocacy",
+  "mode": "non-formal",
+  "type": "eLearning / webinar",
+  "provider": "DOH Academy",
+  "hours": 6,
+  "level": 1,
+  "competency_ids": [
+   14,
+   49
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [],
+  "description": "",
+  "standards": {
+   "14": 1,
+   "49": 1
+  }
+ },
+ {
+  "id": 16,
+  "title": "Media and Risk Communication for Health",
+  "mode": "non-formal",
+  "type": "External training",
+  "provider": "DOH Central Office",
+  "hours": 16,
+  "level": 3,
+  "competency_ids": [
+   65
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [],
+  "description": "",
+  "standards": {
+   "65": 2
+  }
+ },
+ {
+  "id": 17,
+  "title": "Patient Safety and Quality of Care",
+  "mode": "non-formal",
+  "type": "In-house training",
+  "provider": "CETAR",
+  "hours": 8,
+  "level": 1,
+  "competency_ids": [
+   75,
+   89,
+   13
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [],
+  "description": "",
+  "standards": {
+   "75": 1,
+   "89": 1,
+   "13": 1
+  }
+ },
+ {
+  "id": 18,
+  "title": "Shadowing under the Chief Administrative Officer",
+  "mode": "informal",
+  "type": "Shadowing",
+  "provider": "Office of the CAO",
+  "hours": null,
+  "level": 3,
+  "competency_ids": [
+   60,
+   78
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [
+   82
+  ],
+  "description": "",
+  "standards": {
+   "60": 2,
+   "78": 2
+  }
+ },
+ {
+  "id": 19,
+  "title": "Government Procurement Reform Act (RA 9184)",
+  "mode": "non-formal",
+  "type": "External training",
+  "provider": "GPPB-TSO",
+  "hours": 24,
+  "level": 2,
+  "competency_ids": [
+   83,
+   28
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [
+   91
+  ],
+  "description": "",
+  "standards": {
+   "83": 1,
+   "28": 1
+  }
+ },
+ {
+  "id": 20,
+  "title": "Updates on the Government Accounting Manual",
+  "mode": "non-formal",
+  "type": "External training",
+  "provider": "COA",
+  "hours": 16,
+  "level": 2,
+  "competency_ids": [
+   12,
+   47
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [
+   21
+  ],
+  "description": "",
+  "standards": {
+   "12": 1,
+   "47": 1
+  }
+ },
+ {
+  "id": 21,
+  "title": "Budget Preparation Workshop",
+  "mode": "non-formal",
+  "type": "In-house training",
+  "provider": "Budget Section",
+  "hours": 16,
+  "level": 2,
+  "competency_ids": [
+   81,
+   47
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [
+   4
+  ],
+  "description": "",
+  "standards": {
+   "81": 1,
+   "47": 1
+  }
+ },
+ {
+  "id": 22,
+  "title": "Cash Handling and Internal Control",
+  "mode": "non-formal",
+  "type": "In-house training",
+  "provider": "Cash Operations",
+  "hours": 8,
+  "level": 1,
+  "competency_ids": [
+   23
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [
+   80
+  ],
+  "description": "",
+  "standards": {
+   "23": 1
+  }
+ },
+ {
+  "id": 23,
+  "title": "Billing Computation and Claims Accuracy",
+  "mode": "non-formal",
+  "type": "In-house training",
+  "provider": "Billing Section",
+  "hours": 8,
+  "level": 1,
+  "competency_ids": [
+   30
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [
+   24,
+   81
+  ],
+  "description": "",
+  "standards": {
+   "30": 1
+  }
+ },
+ {
+  "id": 24,
+  "title": "Recruitment, Selection and Placement (PRIME-HRM)",
+  "mode": "non-formal",
+  "type": "External training",
+  "provider": "CSC",
+  "hours": 24,
+  "level": 2,
+  "competency_ids": [
+   63,
+   17
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [
+   90
+  ],
+  "description": "",
+  "standards": {
+   "63": 1,
+   "17": 1
+  }
+ },
+ {
+  "id": 25,
+  "title": "Equipment Preventive Maintenance",
+  "mode": "non-formal",
+  "type": "In-house training",
+  "provider": "EFM Section",
+  "hours": 16,
+  "level": 1,
+  "competency_ids": [
+   43,
+   72
+  ],
+  "all_positions": true,
+  "position_ids": [],
+  "office_ids": [
+   84,
+   85,
+   86
+  ],
+  "description": "",
+  "standards": {
+   "43": 1,
+   "72": 1
+  }
+ },
+ {
+  "id": 26,
+  "title": "Computer Hardware Servicing NC II",
+  "mode": "non-formal",
+  "type": "External training",
+  "provider": "TESDA-accredited center",
+  "hours": 80,
+  "level": 1,
+  "competency_ids": [
+   25
+  ],
+  "all_positions": false,
+  "position_ids": [
+   23,
+   24
+  ],
+  "office_ids": [],
+  "description": "",
+  "standards": {
+   "25": 1
+  }
+ },
+ {
+  "id": 27,
+  "title": "Basic Life Support for Nursing Staff",
+  "mode": "non-formal",
+  "type": "In-house training",
+  "provider": "CETAR",
+  "hours": 8,
+  "level": 1,
+  "competency_ids": [
+   70,
+   75
+  ],
+  "all_positions": false,
+  "position_ids": [
+   55,
+   56,
+   62,
+   63
+  ],
+  "office_ids": [],
+  "description": "",
+  "standards": {
+   "70": 1,
+   "75": 1
+  }
+ }
+]
